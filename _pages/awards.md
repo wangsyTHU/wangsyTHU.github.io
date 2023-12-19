@@ -13,7 +13,7 @@ author_profile: true
 * **Outstanding Student Leaders**, Tsinghua University **(Top 5%)**
 ### Year 2021
 * **Frontrunner 5000 Top Articles in Outstanding S&T Journals of China**, Institute of Science and Technical Information of China
-* **First Prize of Excellent Paper of *Automation of Electric Power Systems* in 2020**, Editorial Office of *Automation of Electric Power Systems*
+* **First Prize of Excellent Paper of** ***Automation of Electric Power Systems*** **in 2020**, Editorial Office of *Automation of Electric Power Systems*
 
 ## Undergraduate
 ### Year 2018
@@ -27,6 +27,6 @@ author_profile: true
 * **Second Prize in the National Undergraduate Mathematical Modeling Competition**, China Society for Industrial and Applied Mathematics
 * **Second Prize in the 35th Tsinghua University Undergraduate Academic and Technology Works Competition**, Tsinghua University 
 ### Year 2016
-* **Ultra High Voltage Scholarship**, State Grid Co., Ltd. **(Top 2%)**
+* **Ultra High Voltage Scholarship**, China State Grid Co., Ltd. **(Top 2%)**
 * **Academic Excellence Award Scholarship**, Tsinghua University 
 
