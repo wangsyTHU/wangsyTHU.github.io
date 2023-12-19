@@ -6,8 +6,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Professions"
-    url: /professions/
+  # - title: "Professions"
+  #   url: /professions/
 
   - title: "Awards"
     url: /awards/

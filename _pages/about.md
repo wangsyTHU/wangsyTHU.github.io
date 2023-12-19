@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am in the final year of doctoral studies in the Department of Electrical Engineering at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), scheduled to graduate in June 2024. My research focuses on mathematical optimization, AI algorithms, and their applications in the operation and coordination of power system and multi-energy systems. 
+I am in the final year of doctoral studies in the Department of Electrical Engineering at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), scheduled to graduate in June 2024.
+
+ My research focuses on mathematical optimization, AI algorithms, and their applications in the operation and coordination of power system and multi-energy systems. 
+
 I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023, a prestigious honor granted to only 20 graduate students in Tsinghua Univeristy annually.
 
 ## Education
