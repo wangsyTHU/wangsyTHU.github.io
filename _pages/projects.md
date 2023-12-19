@@ -25,6 +25,7 @@ author_profile: true
 4. National Key Research and Development Program 4.3 “**Key Techniques of Adaptive Grid Integration and Active Synchronization for Extremely High Distributed Photovoltaic Power Penetration Generation**.” (2022-present, main graduate participants)
 - Conducted research to characterize the interdependent capability of clusters for active support in the operational safety domain
 - Optimally allocated active support capabilities of photovoltaic clusters within feasible ranges
-- Introduced an assessment method for the feasibility domain of active-reactive power regulation to facilitate the active synchronization of clusters. Development of the software platform is ongoing
+- Introduced an assessment method for the feasibility domain of active-reactive power regulation to facilitate the active synchronization of clusters
+- Development of the software platform is ongoing
 
 
