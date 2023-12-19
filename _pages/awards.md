@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Graduate
+
 ### Year 2023
 * **Jiang Nanxiang Principal Scholarship**, Tsinghua University **(awarded to only 20 graduates in Tsinghua annually)**
 * **National Scholarship**, Ministry of Education of China **(Top 3%)**
@@ -19,6 +20,7 @@ author_profile: true
 * **First Prize of Excellent Paper of** ***Automation of Electric Power Systems*** **in 2020**, Editorial Office of *Automation of Electric Power Systems*
 
 ## Undergraduate
+
 ### Year 2019
 * **Beijing Outstanding Undergraduate Thesis**, Beijing Municipal Education Commission **(Top 1%)**
 * **Beijing Excellent Undergraduate**, Beijing Municipal Education Commission **(Top 5%)**
