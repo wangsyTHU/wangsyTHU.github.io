@@ -23,7 +23,9 @@ I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023,
 * Physics-embedded AI algorithm for identifying energy system parameters.
 
 ## News
-[12/19/2023] This new personal website said “HelloWorld”.
+[12/14/2023] I was awarded the Tsinghua University Jiang Nanxiang Principal Scholarship, a prestigious honor granted to only 20 graduate students in Tsinghua Univeristy annually.
+
+[10/12/2023] I was awarded the National Scholarship by the Ministry of Education of China, granted to 5 PhD students in the Department of Electrical Engineering in total.
 
 
 
