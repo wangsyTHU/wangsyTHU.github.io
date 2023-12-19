@@ -18,9 +18,7 @@ I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023,
 * 2019-2024(Exp.), Ph.D. in Electrical Engineering, Tsinghua University
 
 ## Research Experience
-* Flexibility aggregation of distributed energy resources in the virtual power plants;
-* Equivalent storage flexibility evaluation of gas and heat network;
-* Flexibility aggregation of regional power grids for coordinated dispatch of the interconnected systems;
+* Flexibility aggregation and evaluation of diverse energy resources;
 * Cloud-edge collaborative agile control of distributed energy resources;
 * Physics-embedded AI algorithm for identifying energy system parameters.
 
