@@ -18,9 +18,9 @@ I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023,
 * 2019-2024(Exp.), Ph.D. in Electrical Engineering, Tsinghua University
 
 ## Research Experience
-* Flexibility aggregation and evaluation of diverse energy resources;
-* Cloud-edge collaborative agile control of distributed energy resources;
-* Physics-embedded AI algorithm for identifying energy system parameters.
+* Flexibility aggregation and evaluation of diverse energy resources
+* Physics-embedded AI algorithm for identifying energy system parameters
+* Cloud-edge collaborative agile control of distributed energy resources
 
 ## News
 [12/14/2023] I was awarded the *Tsinghua University Jiang Nanxiang Principal Scholarship*, a prestigious honor granted to only 20 graduate students in Tsinghua Univeristy annually.
