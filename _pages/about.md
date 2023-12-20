@@ -11,7 +11,7 @@ I am in the final year of doctoral studies in the [Department of Electrical Engi
 
 My research focuses on mathematical optimization, AI algorithms, and their applications in the operation and coordination of power system and multi-energy systems. 
 
-I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023, a prestigious honor granted to only 20 graduate students in Tsinghua Univeristy annually.
+I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023, a prestigious honor granted to only 20 individuals from the 42k graduate students in Tsinghua University annually.
 
 ## Education
 * 2019-2024(Exp.), PhD in Electrical Engineering, Tsinghua University

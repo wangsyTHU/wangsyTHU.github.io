@@ -7,8 +7,8 @@ author_profile: true
 
 ## Graduate
 
-* [2023] **Jiang Nanxiang Principal Scholarship**, Tsinghua University **(awarded to only 20 graduates in Tsinghua annually)**
-* [2023] **National Scholarship**, Ministry of Education of China **(Top 2%)**
+* [2023] **Jiang Nanxiang Principal Scholarship**, Tsinghua University **(awarded to only 20 individuals from the 42k graduate students in Tsinghua University annually)**
+* [2023] **Doctoral National Scholarship**, Ministry of Education of China **(Top 2%)**
 * [2022] **Golden Medal in the International Exhibition of Inventions Geneva**, World Intellectual Property Organization
 * [2022] **Outstanding Student Leaders**, Tsinghua University **(Top 5%)**
 * [2022] **Excellent Paper Award**, China Association for Science and Technology
