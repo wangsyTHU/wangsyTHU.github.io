@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-E-mail: wangsy0424[at]foxmail[dot]com
+**E-mail**: wangsy0424 [at] foxmail [dot] com
 
 I am in the final year of doctoral studies in the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), scheduled to graduate in June 2024.
 
