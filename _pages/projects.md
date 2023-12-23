@@ -19,16 +19,13 @@ author_profile: true
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/images/guangdong_project.png">
+    src="/images/guangdong_project.png" width = "80%">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    <div style="color:orange;
     display: inline-block;
     color: #999;
     padding: 2px;">(a) Simulated power market interface in Guangdong province; (b) Aggregated cost functions of VPPs.</div>
 </center>
-
-![Guangdong Project](/images/guangdong_project.png)
-<center>(a) Simulated power market interface in Guangdong province; (b) Aggregated cost functions of VPPs.</center>
 
 3. National Key Research and Development Program 1.3 “**Regional High-Penetration Distributed Power Generation Clusters with Flexible Grid Integration, Group Control, and Group Regulation Technology**.” (2018-2019, main graduate participants)
 - Designed a hierarchical energy management system for the active distribution network, comprising three levels: distributed cluster control, optimal distribution grid dispatch, and coordinated operation of transmission and distribution
@@ -36,8 +33,16 @@ author_profile: true
 - Developed the active power dispatch module to regulate numerous photovoltaics and energy storage devices in the software "Energy Management and Cluster Control System for Active Distribution Networks to Accommodate Massive Distributed Photovoltaics," implemented in Jinzhai, Anhui Province
 - Awarded Golden Medal in the International Exhibition of Inventions Geneva in 2022 
 
-![Jinzhai Project](/images/jinzhai_project.png)
-(a) Main interface; (b) Interface of power optimization.
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="/images/jinzhai_project.png" width = "80%">
+    <br>
+    <div style="color:orange;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">(a) Main interface; (b) Interface of power optimization.</div>
+</center>
 
 4. National Key Research and Development Program 4.3 “**Key Techniques of Adaptive Grid Integration and Active Synchronization for Extremely High Distributed Photovoltaic Power Penetration Generation**.” (2022-present, main graduate participants)
 - Conducted research to characterize the interdependent capability of clusters for active support in the operational safety domain
