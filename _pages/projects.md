@@ -16,8 +16,19 @@ author_profile: true
 - Developed the software "Intelligent Energy Management and Virtual Power Plant Operation System by Aggregating Distributed Sources," capable of managing DERs in VPP format. It assists VPP operators in aggregating DER flexibility and formulating bidding strategies for the energy and auxiliary service market. Post market clearance, the system can disaggregate VPP dispatch orders
 - Software platform implemented in the China Southern Grid of Guangdong Province
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="/images/guangdong_project.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">(a) Simulated power market interface in Guangdong province; (b) Aggregated cost functions of VPPs.</div>
+</center>
+
 ![Guangdong Project](/images/guangdong_project.png)
-(a) Simulated power market interface in Guangdong province; (b) Aggregated cost functions of VPPs.
+<center>(a) Simulated power market interface in Guangdong province; (b) Aggregated cost functions of VPPs.</center>
 
 3. National Key Research and Development Program 1.3 “**Regional High-Penetration Distributed Power Generation Clusters with Flexible Grid Integration, Group Control, and Group Regulation Technology**.” (2018-2019, main graduate participants)
 - Designed a hierarchical energy management system for the active distribution network, comprising three levels: distributed cluster control, optimal distribution grid dispatch, and coordinated operation of transmission and distribution
