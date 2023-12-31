@@ -17,8 +17,8 @@ My research focuses on mathematical optimization, AI algorithms, and their appli
 I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023, one of the top 3 scholarships at Tsinghua University, granted to only 20 individuals from the 42k graduate students annually.
 
 ## Education
-* 2019-2024(Exp.), PhD in Electrical Engineering, Tsinghua University
-* 2015-2019, BSc in Electrical Engineering and Automation, Tsinghua University
+* 2019-2024(Exp.), Ph.D. in Electrical Engineering, Tsinghua University
+* 2015-2019, B.E. in Electrical Engineering, Tsinghua University
 
 ## Research Interests
 * Flexibility aggregation and evaluation of diverse energy resources
