@@ -15,7 +15,6 @@ author_profile: true
 - Aggregated distributed energy resouces including electric vehicle charging piles, distributed photovoltatics, distribued energy storage devices, and controllable loads 
 - Developed the software "Intelligent Energy Management and Virtual Power Plant Operation System by Aggregating Distributed Sources," capable of managing DERs in VPP format. It assists VPP operators in aggregating DER flexibility and formulating bidding strategies for the energy and auxiliary service market. Post market clearance, the system can disaggregate VPP dispatch orders
 - Software platform implemented in the China Southern Grid of Guangdong Province
-
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -32,7 +31,6 @@ author_profile: true
 - Proposed a multi-timescale dispatch framework, including day-ahead dispatch, intra-day rolling dispatch, and real-time dispatch to reconcile the conflict between economic efficiency and security
 - Developed the active power dispatch module to regulate numerous photovoltaics and energy storage devices in the software "Energy Management and Cluster Control System for Active Distribution Networks to Accommodate Massive Distributed Photovoltaics," implemented in Jinzhai, Anhui Province
 - Awarded Golden Medal in the International Exhibition of Inventions Geneva in 2022 
-
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
