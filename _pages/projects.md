@@ -12,7 +12,7 @@ author_profile: true
 
 2. China Southern Power Grid Company Lmt Technology Project “**Optimal Dispatch and Operation of Virtual Power Plants Comprising Distributed Energy Resources**.” (2018-2021, main graduate participants)
 - Proposed a high-accuracy aggregation method for evaluating power flexibility and aggregating cost functions in a VPP
-- Aggregated distributed energy resouces including electric vehicle charging piles, distributed photovoltatics, distribued energy storage devices, and controllable loads 
+- Aggregated distributed energy resources including electric vehicle charging piles, distributed photovoltaics, distributed energy storage devices, and controllable loads 
 - Developed the software "Intelligent Energy Management and Virtual Power Plant Operation System by Aggregating Distributed Sources," capable of managing DERs in VPP format. It assists VPP operators in aggregating DER flexibility and formulating bidding strategies for the energy and auxiliary service market. Post market clearance, the system can disaggregate VPP dispatch orders
 - Software platform implemented in the China Southern Grid of Guangdong Province
 
