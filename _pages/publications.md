@@ -16,8 +16,8 @@ author_profile: true
 1. W. Wang, C. Liu, Y. Su, **S. Wang**, B. Li, Q. Ma and W. Wu “[An equivalent model‐based asynchronous dispatch method for clusters of flexible distributed energy resources](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/stg2.12108),” *IET Smart Grid*, vol. 6, no. 4, pp. 403–412, Aug. 2023, doi: 10.1049/stg2.12108.
 
 ## Journal Papers in Chinese
-1. **S. Wang** and W. Wu, “[Reference Aggregation Model and Quantitative Metrics System of Flexible Energy Resources](http://kns.cnki.net/kcms/detail/32.1180.TP.20231130.0845.004.html),” *Automation of Electric Power Systems*, Early Access, 2023. (in Chinese)
-1. W. Wu, B. Zhang, H. Sun, B. Wang, Y. Yang, H. Liu, C. Lin and **S. Wang** “[Energy Management and Distributed Energy Resources Cluster Control for Active Distribution Networks](http://www.aeps-info.com/aeps/article/abstract/20191030001),” *Automation of Electric Power Systems*, vol. 44, no. 09, pp. 111–118, May 2020, doi: 10.7500/AEPS20191030001. (in Chinese)
+1. **S. Wang** and W. Wu, “[Reference Aggregation Model and Quantitative Metrics System of Flexible Energy Resources](http://kns.cnki.net/kcms/detail/32.1180.TP.20231130.0845.004.html),” *Automation of Electric Power Systems*, Early Access, 2023.
+1. W. Wu, B. Zhang, H. Sun, B. Wang, Y. Yang, H. Liu, C. Lin and **S. Wang** “[Energy Management and Distributed Energy Resources Cluster Control for Active Distribution Networks](http://www.aeps-info.com/aeps/article/abstract/20191030001),” *Automation of Electric Power Systems*, vol. 44, no. 09, pp. 111–118, May 2020, doi: 10.7500/AEPS20191030001.
 
 ## Conference Papers
 1. G. Sun, **S. Wang**, X. Jia, W. Wu, and H. Li, “[Evaluating Stochastic Flexibility Model of Vehicle Charge Stations in Distribution Network](https://ieeexplore.ieee.org/document/9712912),” in *2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)*, Oct. 2021, pp. 30–35. doi: 10.1109/EI252483.2021.9712912.
