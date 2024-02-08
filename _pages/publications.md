@@ -16,7 +16,7 @@ author_profile: true
 1. W. Wang, C. Liu, Y. Su, **S. Wang**, B. Li, Q. Ma and W. Wu “[An Equivalent Model-Based Asynchronous Dispatch Method for Clusters of Flexible Distributed Energy Resources](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/stg2.12108),” *IET Smart Grid*, vol. 6, no. 4, pp. 403–412, Aug. 2023, doi: 10.1049/stg2.12108.
 
 ## Journal Papers in Chinese
-1. **S. Wang** and W. Wu, “[Reference Aggregation Model and Quantitative Metrics System of Flexible Energy Resources](http://kns.cnki.net/kcms/detail/32.1180.TP.20231130.0845.004.html),” *Automation of Electric Power Systems*, Early Access, 2023.
+1. **S. Wang** and W. Wu, “[Reference Aggregation Model and Quantitative Metric System of Flexible Energy Resources](http://www.aeps-info.com/aeps/article/abstract/20230728003),” *Automation of Electric Power Systems*, 2024, 48(3):1-9. DOI:10.7500/AEPS20230728003.
 1. W. Wu, B. Zhang, H. Sun, B. Wang, Y. Yang, H. Liu, C. Lin and **S. Wang** “[Energy Management and Distributed Energy Resources Cluster Control for Active Distribution Networks](http://www.aeps-info.com/aeps/article/abstract/20191030001),” *Automation of Electric Power Systems*, vol. 44, no. 09, pp. 111–118, May 2020, doi: 10.7500/AEPS20191030001.
 
 ## Conference Papers
