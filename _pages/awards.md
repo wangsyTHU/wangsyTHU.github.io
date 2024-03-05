@@ -15,7 +15,7 @@ author_profile: true
 * [2021] **Frontrunner 5000 Top Articles in Outstanding S&T Journals of China**, Institute of Science and Technical Information of China
 * [2021] **First Prize of Excellent Paper of** ***Automation of Electric Power Systems*** **in 2020**, Editorial Office of *Automation of Electric Power Systems*
 * [2019] **Beijing Best Bachelor Thesis Award**, Beijing Municipal Education Commission **(the sole recipient in the department)**
-* [2019] **Beijing Outstanding Bachelor Award**, Beijing Municipal Education Commission **(Top 5%)**
+* [2019] **Beijing Excellent Bachelor Award**, Beijing Municipal Education Commission **(Top 3%)**
 * [2018] **Undergraduate Comprehensive Excellence Scholarship**, Tsinghua University  **(Top 5%)**
 * [2018] **Outstanding Student Leaders Award**, Tsinghua University  **(Top 5%)**
 * [2018] **Academic Excellence Scholarship**, Tsinghua University 
