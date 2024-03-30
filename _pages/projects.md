@@ -11,9 +11,11 @@ author_profile: true
 - Develop software "Data-Driven Distribution Energy Management System (D3EMS)"
 
 2. **Key Techniques of Adaptive Grid Integration and Active Synchronization for Extremely High Distributed Photovoltaic Power Penetration Generation** (*National Key Research and Development Program*, 2023-peresent)
-- Data-driven identification of dynamic parameters in distribution networks
-- Assessment of voltage secure operation domain and active support potential of clusters
+- Data-driven feedback control of resources in the distribution network
+- Mapping nonlinear dynamic device models to higher-dimensional linear models for model predictive control
+- Active support capabilities aggregation of distributed energy resources in the cluster
 - Optimal active voltage/frequency control with large-scale inverter-based resources
+
 
 3. **Optimal Dispatch and Operation of Virtual Power Plants by Aggregating Distributed Energy Resources** (*China Southern Grid*, 2018-2021)
 - Aggregate and disaggregate of distributed energy resources in the VPPs
