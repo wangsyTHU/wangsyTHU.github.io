@@ -22,7 +22,9 @@ I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023,
 
 ## Research Interests
 * Flexibility aggregation and coordination of diverse energy resources
-* Physics-embedded AI algorithm for identifying energy system parameters
+* Data-driven feedback optimal control of devices in the power system
+* Domain knowledge embedded AI for reliable control in the energy system
+* AI-aided calculation of complex optimization problems
 * Cloud-edge collaborative agile control of distributed energy resources
 
 ## News
