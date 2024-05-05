@@ -7,6 +7,7 @@ author_profile: true
 
 ## Selected Awards and Honors
 
+* [2024] **Outstanding Young Scholar**, Department of Electrical Engineering, Tsinghua University **(Top 5%)**
 * [2023] **Jiang Nanxiang Principal Scholarship**, Tsinghua University **(one of the top 3 scholarships at Tsinghua University, granted to 20 individuals from the 42k graduate students annually)**
 * [2023] **Doctoral National Scholarship**, Ministry of Education of China **(Top 2%)**
 * [2022] **Golden Medal in the International Exhibition of Inventions Geneva**, World Intellectual Property Organization
