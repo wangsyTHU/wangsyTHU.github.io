@@ -12,7 +12,7 @@ redirect_from:
 
 **E-mail**: wangsiyu19 [at] mails [dot] tsinghua [dot] edu [dot] cn
 
-I am in the final year of doctoral studies in the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), scheduled to graduate in June 2024.
+I am in the final year of doctoral studies in the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), scheduled to graduate in June 2024. I am a member of the [EMS R&D Team](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm) led by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm).
 
 My research focuses on AI, optimization algorithms, and their applications in the operation and control of energy systems. Currently, I am developing AI-powered, data-driven solutions to address the challenges of integrating high renewable generation in power systems amid the energy sector's transition to decarbonization.
 
