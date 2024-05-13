@@ -16,7 +16,6 @@ I am in the final year of doctoral studies in the [Department of Electrical Engi
 
 My research focuses on AI, optimization algorithms, and their applications in the operation and control of energy systems. Currently, I am developing AI-powered, data-driven solutions to address the challenges of integrating high renewable generation in power systems amid the energy sector's transition to decarbonization.
 
-I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023, one of the top 3 scholarships at Tsinghua University, granted to 20 individuals from the 42k graduate students annually.
 
 ## Education
 * 2019-2024(Exp.), Ph.D. in Electrical Engineering, Tsinghua University
@@ -30,9 +29,13 @@ I received the Tsinghua University Jiang Nanxiang Principal Scholarship in 2023,
 * Cloud-edge collaborative agile control of distributed energy resources
 
 ## News
-[12/14/2023] I was awarded the *Tsinghua University Jiang Nanxiang Principal Scholarship*, one of the top 3 scholarships at Tsinghua University, granted to only 20 individuals from the 42k graduate students annually.
+[May 13, 2024] I received the **Cercis Scholar** from Tsinghua University.
 
-[10/12/2023] I was awarded the *Doctoral National Scholarship* by the Ministry of Education of China, granted to 5 PhD students in the Department of Electrical Engineering in total.
+[Apr. 8, 2024] I received the **Outstanding Young Scholar** from the Department of Electrical Engineering at Tsinghua University, granted to 3 PhD students in the department in total.
+
+[Dec. 14, 2023] I was awarded the **Tsinghua University Jiang Nanxiang Principal Scholarship**, one of the top 3 scholarships at Tsinghua University, granted to only 20 individuals from the 42k graduate students annually.
+
+[Oct. 12, 2023] I was awarded the **Doctoral National Scholarship** by the Ministry of Education of China, granted to 5 PhD students in the Department of Electrical Engineering in total.
 
 
 
