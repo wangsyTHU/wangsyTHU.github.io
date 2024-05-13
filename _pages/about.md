@@ -33,7 +33,7 @@ My research focuses on AI, optimization algorithms, and their applications in th
 
 [Apr. 8, 2024] I received the **Outstanding Young Scholar** from the Department of Electrical Engineering at Tsinghua University, granted to 3 PhD students in the department in total.
 
-[Dec. 14, 2023] I was awarded the **Tsinghua University Jiang Nanxiang Principal Scholarship**, one of the top 3 scholarships at Tsinghua University, granted to only 20 individuals from the 42k graduate students annually.
+[Dec. 14, 2023] I was awarded the **Tsinghua University Jiang Nanxiang Principal Scholarship**, one of the top 4 scholarships at Tsinghua University, granted to only 20 individuals from the 42k graduate students annually.
 
 [Oct. 12, 2023] I was awarded the **Doctoral National Scholarship** by the Ministry of Education of China, granted to 5 PhD students in the Department of Electrical Engineering in total.
 
