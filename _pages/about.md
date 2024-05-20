@@ -23,13 +23,13 @@ My research focuses on AI, optimization algorithms, and their applications in th
 
 ## Research Interests
 * Flexibility aggregation and coordination of diverse energy resources
-* Data-driven feedback optimal control of devices in the power system
 * Domain knowledge embedded AI for reliable control in the energy system
 * AI-aided calculation of complex optimization problems
+* Data-driven feedback optimal control of devices in the energy system
 * Cloud-edge collaborative agile control of distributed energy resources
 
 ## News
-[May 13, 2024] I was awarded the honor of **Cercis Scholar of Tsinghua University**.
+[May 13, 2024] I was awarded the honor of **Tsinghua University Cercis Scholar**.
 
 [Apr. 8, 2024] I was awarded the honor of **Outstanding Young Scholar of the Department of Electrical Engineering at Tsinghua University**, granted to 3 PhD students in the department in total.
 
