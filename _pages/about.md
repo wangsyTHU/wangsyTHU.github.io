@@ -29,15 +29,15 @@ My research focuses on AI, optimization algorithms, and their applications in th
 * Cloud-edge collaborative agile control of distributed energy resources
 
 ## News
-[May 22, 2024] I have successfully passed my PhD dissertation defense, entitled **"Flexibility Aggregation and Coordination of Diverse Energy Resources"**.
+[May 22, 2024] I have successfully passed my PhD dissertation defense, entitled *"Flexibility Aggregation and Coordination of Diverse Energy Resources"*.
 
-[May 13, 2024] I was awarded the honor of **Tsinghua University Cercis Scholar**.
+[May 13, 2024] I was selected as the *Tsinghua University Cercis Scholar*.
 
-[Apr. 8, 2024] I was awarded the honor of **Outstanding Young Scholar of the Department of Electrical Engineering at Tsinghua University**, granted to 3 PhD students in the department in total.
+[Apr. 8, 2024] I was awarded the honor of *Outstanding Young Scholar of the Department of Electrical Engineering at Tsinghua University*, granted to 3 PhD students in the department in total.
 
-[Dec. 14, 2023] I received the **Tsinghua University Jiang Nanxiang Principal Scholarship**, one of the top 4 scholarships at Tsinghua University, granted to only 20 individuals from the 42k graduate students annually.
+[Dec. 14, 2023] I received the *Tsinghua University Jiang Nanxiang Principal Scholarship*, one of the top 4 scholarships at Tsinghua University, granted to only 20 individuals from the 42k graduate students annually.
 
-[Oct. 12, 2023] I received the **Doctoral National Scholarship** by the Ministry of Education of China, granted to 5 PhD students in the Department of Electrical Engineering in total.
+[Oct. 12, 2023] I received the *Doctoral National Scholarship* by the Ministry of Education of China, granted to 5 PhD students in the Department of Electrical Engineering in total.
 
 
 
