@@ -18,8 +18,8 @@ My research focuses on AI, optimization algorithms, and their applications in th
 
 
 ## Education
-* 2019-2024(Exp.), Ph.D. in Electrical Engineering, Tsinghua University
-* 2015-2019, B.E. in Electrical Engineering and Automation, Tsinghua University
+* 2019-2024, Ph.D. in Electrical Engineering, Tsinghua University
+* 2015-2019, B.Eng. in Electrical Engineering and Automation, Tsinghua University
 
 ## Research Interests
 * Domain knowledge embedded AI for reliable control in the energy system
