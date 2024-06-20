@@ -29,7 +29,7 @@ My research focuses on AI, optimization algorithms, and their applications in th
 * Cloud-edge collaborative agile control of distributed energy resources
 
 ## News
-[May 22, 2024] I have successfully passed my PhD dissertation defense, entitled *"Flexibility Aggregation and Coordination of Diverse Energy Resources"*.
+[May 22, 2024] I have successfully passed my Ph.D. dissertation defense, entitled *"Flexibility Aggregation and Coordination of Diverse Energy Resources"*.
 
 [May 13, 2024] I was selected as the *Tsinghua University Cercis Scholar*.
 
