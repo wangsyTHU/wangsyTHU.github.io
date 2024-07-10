@@ -5,11 +5,10 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Selected Awards and Honors
+## Selected Awards and Honor
+* [2024] **Outstanding Ph.D. Dissertation**, Tsinghua University
 * [2024] **Cercis Scholar**, Tsinghua University
-* [2024] **Outstanding Young Scholar**, Department of Electrical Engineering at Tsinghua University **(Top 2%)**
-* [2023] **Jiang Nanxiang Principal Scholarship**, Tsinghua University **(one of the top 4 scholarships at Tsinghua University, granted to 20 individuals from the 42k graduate students annually)**
-* [2023] **Doctoral National Scholarship**, Ministry of Education of China **(Top 2%)**
+* [2023] **Jiang Nanxiang Scholarship**, Tsinghua University
 * [2022] **Golden Medal in the International Exhibition of Inventions Geneva**, World Intellectual Property Organization
 * [2022] **Outstanding Student Leaders Award**, Tsinghua University **(Top 5%)**
 * [2022] **Outstanding Paper Award**, China Association for Science and Technology

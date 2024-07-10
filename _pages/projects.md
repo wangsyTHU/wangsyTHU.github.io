@@ -40,7 +40,7 @@ author_profile: true
 7. **Risk Dispatch and Distributed Resource Intelligent Control in Digital Active Distribution Network** (*China State Grid*, 2021-2023)
 - Modeling distributed energy resources considering temporal-coupling constraints and stochastic factors
 - Optimal coordination of transmission and distribution networks with manageable risks
-- RL-based intelligent control of distributed energy resources
+- Data-driven-based intelligent control of distributed energy resources
 
 8. **Collaborative Operation Technology of Distributed Source-Load Interaction in the Transmission-Distribution-Microgrid System** (*China State Grid*, 2021-2024)
 - Aggregation of flexible energy resources for hierarchical dispatch
