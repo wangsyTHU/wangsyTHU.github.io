@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyuan Wang"
 title_separator          : "-"
 name                     : "Siyuan Wang"
-description              : "PhD"
+description              : "Ezra Postdoctoral Associate"
 url                      : https://simonyed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simonyed/simonyed.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Siyuan Wang (王思远)"
   avatar           : "portrait.png"
-  bio              : "PhD in EE"
-  location         : "Tsinghua University"
+  bio              : "Ezra Postdoctoral Associate"
+  location         : "Cornell University"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Lp2o-uwAAAAJ&hl=en"

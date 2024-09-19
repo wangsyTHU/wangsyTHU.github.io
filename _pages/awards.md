@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Selected Awards and Honor
+* [2024] **Outstanding Ph.D. Graduate"**, Beijing Municipal Education Commission
+* [2024] **Outstanding Ph.D. Graduate"**, Tsinghua University 
 * [2024] **Outstanding Ph.D. Dissertation**, Tsinghua University
 * [2024] **Cercis Scholar**, Tsinghua University
 * [2023] **Jiang Nanxiang Scholarship**, Tsinghua University
