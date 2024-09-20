@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## Selected Awards and Honor
-* [2024] **Outstanding Ph.D. Graduate"**, Beijing Municipal Education Commission
-* [2024] **Outstanding Ph.D. Graduate"**, Tsinghua University 
+* [2024] **Outstanding Ph.D. Graduate**, Beijing Municipal Education Commission
+* [2024] **Outstanding Ph.D. Graduate**, Tsinghua University 
 * [2024] **Outstanding Ph.D. Dissertation**, Tsinghua University
 * [2024] **Cercis Scholar**, Tsinghua University
 * [2023] **Jiang Nanxiang Scholarship**, Tsinghua University
+* [2023] **National Scholarship**, Ministry of Education of China
 * [2022] **Golden Medal in the International Exhibition of Inventions Geneva**, World Intellectual Property Organization
 * [2022] **Outstanding Student Leaders Award**, Tsinghua University **(Top 5%)**
 * [2022] **Outstanding Paper Award**, China Association for Science and Technology

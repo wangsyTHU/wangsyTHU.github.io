@@ -27,14 +27,13 @@ My research focuses on optimization algorithms, and their applications in the op
 * Cloud-edge collaborative agile control of distributed energy resources
 
 ## News
-[June 30, 2024] I graduate from Tsinghua University with the honors *"Beijing & Tsinghua University Outstanding Ph.D. Graduate"* and *"Tsinghua University Outstanding Ph.D. Dissertation"*
+[June 30, 2024] I graduate from Tsinghua University with the honors *Beijing & Tsinghua University Outstanding Ph.D. Graduate* and *Tsinghua University Outstanding Ph.D. Dissertation*
 
 [May 22, 2024] I have successfully passed my Ph.D. dissertation defense, entitled *"Flexibility Aggregation and Coordination of Diverse Energy Resources"*.
 
 [May 13, 2024] I was selected as the *Tsinghua University Cercis Scholar*.
 
 [Dec. 14, 2023] I received the *Tsinghua University Jiang Nanxiang Scholarship*.
-
 
 
 
