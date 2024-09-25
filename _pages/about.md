@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **E-mail**: wangsy0424 [at] foxmail [dot] com
+**E-mail**: siyuan.wang [at] cornell [dot] edu
 
 I am now an Ezra Postdoctoral Associate in Energy System at Cornell University in [PEESE research group](https://www.peese.org/), led by [Prof. Fengqi You](https://www.peese.org/professor/). Previously, I obtained my Ph.D. degree from the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), and I was a member of the [EMS R&D Team](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm) led by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm).
 
