@@ -31,7 +31,7 @@ My research focuses on optimization algorithms, and their applications in the op
 ## News
 [Sept. 15, 2024] I start my Ezra Postdoctoral Associate position at Cornell University.
 
-[July 15, 2024] Our paper entitled "Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources" is selected as the **ESI Top 1% High Citation** paper.
+[July 15, 2024] Our paper entitled "Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources" is selected as the *ESI Top 1% High Citation* paper.
 
 [June 30, 2024] I graduate from Tsinghua University with the honors *Beijing & Tsinghua University Outstanding Ph.D. Graduate* and *Tsinghua University Outstanding Ph.D. Dissertation*
 
