@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Preprints
-1. Coming soon ^_^
+1. **S. Wang**, W. Wu, C. Lin, Q. Wang, S. Xu, B. Chen,"[Physics-Informed Recurrent Network for Gas Pipeline Network Parameters Identification](https://arxiv.org/abs/2502.07230)", arXiv preprint arXiv:2502.07230, 2024.
+1. **S. Wang**, C. Feng, F. You,"[Non-Iterative Coordination of Interconnected Power Grids via Dimension-Decomposition-Based Flexibility Aggregation](https://arxiv.org/abs/2502.07226)", arXiv preprint arXiv:2502.07226, 2025. 
+
 
 ## Journal Papers
 1. **S. Wang** and W. Wu, “[Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints](https://ieeexplore.ieee.org/document/9520661),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043–5051, Nov. 2021, doi: 10.1109/TSG.2021.3106646.
