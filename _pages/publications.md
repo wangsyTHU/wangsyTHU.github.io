@@ -11,7 +11,7 @@ author_profile: true
 
 
 ## Journal Papers
-1. **S. Wang** and W. Wu, “[Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints](https://ieeexplore.ieee.org/document/9520661),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043–5051, Nov. 2021, doi: 10.1109/TSG.2021.3106646. [Sample Codes](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)
+1. **S. Wang** and W. Wu, “[Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints](https://ieeexplore.ieee.org/document/9520661),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043–5051, Nov. 2021, doi: 10.1109/TSG.2021.3106646. **[[Sample Codes](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)]**
 1. **S. Wang**, X. Wang, and W. Wu, “[Cloud Computing and Local Chip-Based Dynamic Economic Dispatch for Microgrids](https://ieeexplore.ieee.org/document/9047944),” *IEEE Transactions on Smart Grid*, vol. 11, no. 5, pp. 3774–3784, Sep. 2020, doi: 10.1109/TSG.2020.2983556.
 1. **S. Wang**, W. Wu, C. Lin, and B. Chen, “[A Dynamic Equivalent Energy Storage Model of Natural Gas Networks for Joint Optimal Dispatch of Electricity-Gas Systems](https://ieeexplore.ieee.org/document/10261292),” *IEEE Transactions on Sustainable Energy*, vol. 15, no. 1, pp. 621-632, Jan. 2024, doi: 10.1109/TSTE.2023.3318349.
 1. **S. Wang**, W. Wu, Q. Chen, J. Yu, and P. Wang, “[Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources](https://ieeexplore.ieee.org/document/9862584),” *CSEE Journal of Power and Energy Systems*, vol. 10, no. 3, pp. 988-999, May 2024, doi: 10.17775/CSEEJPES.2021.07410. **(ESI Top 1% High Citation)**
