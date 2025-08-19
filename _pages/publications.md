@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## Preprints
-1. **S. Wang**, W. Wu, C. Lin, Q. Wang, S. Xu, and B. Chen,"[Physics-Informed Recurrent Network for Gas Pipeline Network Parameters Identification](https://arxiv.org/abs/2502.07230)", *arXiv preprint*, arXiv:2502.07230, 2024.
-1. **S. Wang**, C. Feng, and F. You,"[Non-Iterative Coordination of Interconnected Power Grids via Dimension-Decomposition-Based Flexibility Aggregation](https://arxiv.org/abs/2502.07226)", *arXiv preprint*, arXiv:2502.07226, 2025. 
+1. **S. Wang**, W. Wu, C. Lin, Q. Wang, S. Xu, and B. Chen,"[Physics-Informed Recurrent Network for State-Space Modeling of Gas Pipeline Networks](https://arxiv.org/abs/2502.07230)", *arXiv preprint*, arXiv:2502.07230, 2024.
+
 
 
 ## Journal Papers
+1. **S. Wang**, C. Feng, and F. You,"[Non-Iterative Coordination of Interconnected Power Grids via Dimension-Decomposition-Based Flexibility Aggregation](https://ieeexplore.ieee.org/document/11124410)", *IEEE Transactions on Power Systems*, Early Access, 2025, doi: 10.1109/TPWRS.2025.3598762.
 1. **S. Wang** and W. Wu, “[Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints](https://ieeexplore.ieee.org/document/9520661),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043–5051, Nov. 2021, doi: 10.1109/TSG.2021.3106646. **[Sample [Code](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)]**
 1. **S. Wang**, X. Wang, and W. Wu, “[Cloud Computing and Local Chip-Based Dynamic Economic Dispatch for Microgrids](https://ieeexplore.ieee.org/document/9047944),” *IEEE Transactions on Smart Grid*, vol. 11, no. 5, pp. 3774–3784, Sep. 2020, doi: 10.1109/TSG.2020.2983556.
 1. **S. Wang**, W. Wu, C. Lin, and B. Chen, “[A Dynamic Equivalent Energy Storage Model of Natural Gas Networks for Joint Optimal Dispatch of Electricity-Gas Systems](https://ieeexplore.ieee.org/document/10261292),” *IEEE Transactions on Sustainable Energy*, vol. 15, no. 1, pp. 621-632, Jan. 2024, doi: 10.1109/TSTE.2023.3318349.
