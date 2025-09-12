@@ -17,12 +17,12 @@ I am now an Eric and Wendy Schmidt AI in Science Postdoc Fellow at Cornell Unive
 My research focuses on optimization algorithms, and their applications in the operation and control of energy systems. Currently, I am developing data-driven solutions to address the challenges of integrating high renewable generation in power systems amid the energy sector's transition to decarbonization.
 
 ## Academic Appointments
-* Sep.2025 - Peresent, Eric and Wendy Schmidt AI in Science Postdoc Fellow, Cornell University
-* Sep.2024 - Sep.2025, Ezra Postdoctoral Associate, College of Engineering, Cornell University
+* Sep. 2025 - Present, Eric and Wendy Schmidt AI in Science Postdoc Fellow, Cornell University AI for Science Institute & College of Engineering, Cornell University
+* Sep. 2024 - Aug. 2025, Ezra Postdoctoral Associate, College of Engineering, Cornell University
 
 ## Education
-* 2019-2024, Ph.D. in Electrical Engineering, Tsinghua University
-* 2015-2019, B.Eng. in Electrical Engineering and Automation, Tsinghua University
+* Aug. 2019 - Jun. 2024, Ph.D. in Electrical Engineering, Tsinghua University
+* Aug. 2015 - Jul. 2019, B.Eng. in Electrical Engineering and Automation, Tsinghua University
 
 ## Research Interests
 * Domain knowledge embedded data-driven methods for reliable control in the energy system
