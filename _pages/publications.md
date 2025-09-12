@@ -24,7 +24,7 @@ author_profile: true
 
 
 ## Interdisciplinary Research Papers
-1. **S. Wang**, M. T. Bergman, C. K. Hall\*, F. You\*, “De Novo Design Multiple Microplastic-Binding Peptides with a Protein Language Model-Guided Generative Adversarial Network,” *Journal of Chemical Information and Modeling*, Early Access, 2025, doi: [10.1021/acs.jcim.5c01401](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c01401).
+1. **S. Wang**, M. T. Bergman, C. K. Hall\*, F. You\*, “De Novo Design Multiple Microplastic-Binding Peptides with a Protein Language Model-Guided Generative Adversarial Network,” *Journal of Chemical Information and Modeling*, vol. 65, no. 16, pp. 8527-8537, Aug. 2025, doi: [10.1021/acs.jcim.5c01401](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c01401).
 
 
 ## Conference Papers

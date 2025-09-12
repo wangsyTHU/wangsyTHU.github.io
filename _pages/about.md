@@ -12,10 +12,13 @@ redirect_from:
 
 **E-mail**: siyuan.wang [at] cornell [dot] edu
 
-I am now an Ezra Postdoctoral Associate in Energy System at Cornell University in [PEESE research group](https://www.peese.org/), led by [Prof. Fengqi You](https://www.peese.org/professor/). Previously, I obtained my Ph.D. degree from the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), and I was a member of the [EMS R&D Team](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm) led by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm).
+I am now an Eric and Wendy Schmidt AI in Science Postdoc Fellow at Cornell University in [PEESE research group](https://www.peese.org/), led by [Prof. Fengqi You](https://www.peese.org/professor/). Previously, I obtained my Ph.D. degree from the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), and I was a member of the [EMS R&D Team](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm) led by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm).
 
 My research focuses on optimization algorithms, and their applications in the operation and control of energy systems. Currently, I am developing data-driven solutions to address the challenges of integrating high renewable generation in power systems amid the energy sector's transition to decarbonization.
 
+## Academic Appointments
+* Sep.2025 - Peresent, Eric and Wendy Schmidt AI in Science Postdoc Fellow, Cornell University
+* Sep.2024 - Sep.2025, Ezra Postdoctoral Associate, College of Engineering, Cornell University
 
 ## Education
 * 2019-2024, Ph.D. in Electrical Engineering, Tsinghua University
@@ -29,11 +32,13 @@ My research focuses on optimization algorithms, and their applications in the op
 * Cloud-edge collaborative agile control of distributed energy resources
 
 ## News
-[Sept. 15, 2024] I start my Ezra Postdoctoral Associate position at Cornell University.
+[Sep. 15, 2025] I start my Eric and Wendy Schmidt AI in Science Postdoc Fellow position at Cornell University.
 
-[July 15, 2024] Our paper entitled "Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources" is selected as the *ESI Top 1% High Citation* paper.
+[Sep. 15, 2024] I start my Ezra Postdoctoral Associate position at Cornell University.
 
-[June 30, 2024] I graduate from Tsinghua University with the honors *Beijing & Tsinghua University Outstanding Ph.D. Graduate* and *Tsinghua University Outstanding Ph.D. Dissertation*
+[Jul. 15, 2024] Our paper entitled "Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources" is selected as the *ESI Top 1% High Citation* paper.
+
+[Jun. 30, 2024] I graduate from Tsinghua University with the honors *Beijing & Tsinghua University Outstanding Ph.D. Graduate* and *Tsinghua University Outstanding Ph.D. Dissertation*
 
 [May 22, 2024] I have successfully passed my Ph.D. dissertation defense, entitled *"Flexibility Aggregation and Coordination of Diverse Energy Resources"*.
 

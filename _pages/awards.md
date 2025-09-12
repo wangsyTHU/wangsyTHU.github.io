@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Selected Awards and Honor
+* [2025] **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship**, Cornell University
+* [2025] Finalist of the **IEEE Power & Energy Society Ph.D. Dissertation Challenge** (Top 20)
 * [2024] **Outstanding Ph.D. Graduate**, Beijing Municipal Education Commission
 * [2024] **Outstanding Ph.D. Graduate**, Tsinghua University 
 * [2024] **Outstanding Ph.D. Dissertation**, Tsinghua University

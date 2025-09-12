@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyuan Wang"
 title_separator          : "-"
 name                     : "Siyuan Wang"
-description              : "Ezra Postdoctoral Associate"
+description              : "Eric and Wendy Schmidt AI in Science Postdoc Fellow"
 url                      : https://wangsythu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangsythu/wangsythu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Siyuan Wang (王思远)"
   avatar           : "portrait.png"
-  bio              : "Ezra Postdoctoral Associate"
+  bio              : "Eric and Wendy Schmidt AI in Science Postdoc Fellow"
   location         : "Cornell University"
   employer         :
   pubmed           : 
