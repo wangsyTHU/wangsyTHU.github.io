@@ -12,7 +12,7 @@ redirect_from:
 
 **E-mail**: siyuan.wang [at] cornell [dot] edu
 
-I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in [PEESE research group](https://www.peese.org/), led by [Prof. Fengqi You](https://www.peese.org/professor/). Previously, I obtained my Ph.D. degree from the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), and I was a member of the [EMS R&D Team](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm) led by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm).
+I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in [PEESE research group](https://www.peese.org/), led by [Prof. Fengqi You](https://www.peese.org/professor/). Previously, I was an Ezra Postdoctoral Associate in Energy Systems at Cornell University. I obtained my Ph.D. degree from the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), and I was a member of the [EMS R&D Team](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm) led by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm).
 
 My research focuses on optimization algorithms, and their applications in the operation and control of energy systems. Currently, I am developing data-driven solutions to address the challenges of integrating high renewable generation in power systems amid the energy sector's transition to decarbonization.
 
