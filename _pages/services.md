@@ -7,8 +7,7 @@ author_profile: true
 
 ## Supervision experience
 
-- **May 2025–Present**  
-  **Arjun M., Ph.D. student**  
+- **May 2025–Present: Arjun M., Ph.D. student**  
   *Hierarchical Reinforcement Learning Approach for Adaptive Commercial Virtual Power Plant Coordination*  
 
 ---
