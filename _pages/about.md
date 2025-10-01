@@ -17,8 +17,11 @@ I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in
 My research focuses on improving and applying AI and optimization to enhance the secure and efficient operation of energy systems in the transition to a low-carbon future. My work includes quantifying the flexibility of distributed energy resources (DERs) and integrated energy systems (IESs), improving renewable generation forecasting, and analyzing the implications of energy and climate policies.
 
 ## Academic Appointments
-* Sep. 2025 - Present, Schmidt AI in Science Postdoctoral Associate, Cornell University AI for Science Institute & College of Engineering, Cornell University
-* Sep. 2024 - Aug. 2025, Ezra Postdoctoral Associate, College of Engineering, Cornell University
+Sep 2025-Present    **Schmidt AI in Science Postdoctoral Associate**  
+     *Cornell University AI for Science Institute, Cornell University*
+Sep 2024-Aug 2025    **Ezra Postdoctoral Associate**  
+     *College of Engineering, Cornell University*
+
 
 ## Education
 * Aug. 2019 - Jun. 2024, Ph.D. in Electrical Engineering, Tsinghua University
