@@ -18,13 +18,13 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 ## Academic Appointments
 
-**Sep 2025–Present**	**Schmidt AI in Science Postdoctoral Associate** 
-			*Cornell University AI for Science Institute, Cornell University*  
-			**Mentor:** Prof. Fengqi You
+**Sep 2025–Present**    **Schmidt AI in Science Postdoctoral Associate** 
+     *Cornell University AI for Science Institute, Cornell University*  
+     **Mentor:** Prof. Fengqi You
 
-**Sep 2024–Aug 2025**	**Ezra Postdoctoral Associate**
-			*College of Engineering, Cornell University*
-			**Mentor:** Prof. Fengqi You
+**Sep 2024–Aug 2025**    **Ezra Postdoctoral Associate**
+    	 *College of Engineering, Cornell University*
+    	 **Mentor:** Prof. Fengqi You
 
 
 ## Education
