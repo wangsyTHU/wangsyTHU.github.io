@@ -18,23 +18,23 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 ## Academic Appointments
 
-**Sep 2025–Present**    **Schmidt AI in Science Postdoctoral Associate** 
-     *Cornell University AI for Science Institute, Cornell University*  
-     **Mentor:** Prof. Fengqi You
+- **Sep 2025–Present**, **Schmidt AI in Science Postdoctoral Associate**  
+  *Cornell University AI for Science Institute, Cornell University*   
+  **Mentor:** Prof. Fengqi You
 
-**Sep 2024–Aug 2025**    **Ezra Postdoctoral Associate**
-    	 *College of Engineering, Cornell University*
-    	 **Mentor:** Prof. Fengqi You
+**Sep 2024–Aug 2025**, **Ezra Postdoctoral Associate**
+  *College of Engineering, Cornell University*
+  **Mentor:** Prof. Fengqi You
 
 
 ## Education
 
-**Aug 2019–Jun 2024**	**Ph.D. in Electrical Engineering, Tsinghua University**  
-			*Department of Electrical Engineering*
-			**Supervisor:** Prof. Wenchuan Wu (Deputy Director of Department, IEEE Fellow)  
+**Aug 2019–Jun 2024**, **Ph.D. in Electrical Engineering, Tsinghua University**  
+  *Department of Electrical Engineering*
+  **Supervisor:** Prof. Wenchuan Wu (Deputy Director of Department, IEEE Fellow)  
  
-**Aug 2015–Jul 2019**	**B.E. in Electrical Engineering, Tsinghua University**  
-			*Department of Electrical Engineering*  
+**Aug 2015–Jul 2019**, **B.E. in Electrical Engineering, Tsinghua University**  
+  *Department of Electrical Engineering*  
 
 
 
