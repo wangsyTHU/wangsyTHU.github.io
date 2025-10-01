@@ -15,7 +15,7 @@ author_profile: true
 2024    **Ezra Systems Scholar**  
      *Cornell University System Engineering Program*
 
-2024    **Tsinghua Cercis Scholar** (**10 recipients university-wide**)  
+2024    **Tsinghua Cercis Scholar** (**<span style="color:#053e7a;">10 recipients university-wide</span>**)  
      *Tsinghua University*
 
 2024    **Tsinghua Outstanding Ph.D. Dissertation** (**Top 5%**)  
@@ -27,16 +27,16 @@ author_profile: true
 2024    **Tsinghua Outstanding Ph.D. Graduate** (**Top 3%**)  
      *Tsinghua University*
 
-2023    **Tsinghua Jiang Nanxiang Principal Scholarship** (**20 recipients university-wide**)  
+2023    **Tsinghua Jiang Nanxiang Principal Scholarship** (**<span style="color:#053e7a;">20 recipients university-wide</span>**)  
      *Tsinghua University*
 
-2023    **Doctoral National Scholarship** (**Top 1% nation-wide**)  
+2023    **Doctoral National Scholarship** (**<span style="color:#053e7a;">Top 1% nation-wide</span>**)  
      *Ministry of Education of China*
 
-2022    **2022 Electronic Circuit Design Elite Challenge** (**Kirin Cup, National championship team**)  
+2022    **2022 Electronic Circuit Design Elite Challenge** (**<span style="color:#053e7a;">Kirin Cup, National championship team</span>**)  
      *China Electronic Engineering Association*
 
-2022    **2022 International Exhibition of Inventions Geneva** (**Golden Medal**)  
+2022    **2022 International Exhibition of Inventions Geneva** (**<span style="color:#053e7a;">Golden Medal</span>**)  
      *World Intellectual Property Organization*
 
 2022    **Outstanding Paper Award**  
@@ -48,7 +48,7 @@ author_profile: true
 2021    **First Prize of Excellent Paper of Automation of Electric Power Systems in 2020**  
      *Editorial Office of Automation of Electric Power Systems*
 
-2019    **Beijing Outstanding Undergraduate Thesis** (**Sole recipient in the department**)  
+2019    **Beijing Outstanding Undergraduate Thesis** (**<span style="color:#053e7a;">Sole recipient in the department</span>**)  
      *Beijing Municipal Education Commission*
 
 2019    **Beijing Excellent Bachelor Award** (**Top 2%**)  
@@ -60,7 +60,7 @@ author_profile: true
 2019    **Tsinghua Outstanding Undergraduate Graduate**  
      *Tsinghua University*
 
-2018    **Tsinghua First-Class Undergraduate Comprehensive Excellence Scholarship** (**Top 1%**)  
+2018    **Tsinghua First-Class Undergraduate Comprehensive Excellence Scholarship** (**<span style="color:#053e7a;">Top 1%</span>**)  
      *Tsinghua University*
 
 2017    **Tsinghua Academic Excellence Scholarship**  
