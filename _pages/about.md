@@ -20,25 +20,25 @@ My research focuses on improving and applying AI and optimization to enhance the
 <table style="border-collapse:collapse; border:none;">
   <tr>
     <td style="width:180px; border:none;">Sep 2025–Present</td>
-    <td style="border:none;">
+    <td style="border:none; font-size:inherit;">
       <b>Schmidt AI in Science Postdoctoral Associate</b>
     </td>
   </tr>
   <tr>
-    <td style="border:none;"></td>
-    <td style="border:none;">
+    <td style="border:none; font-size:inherit;"></td>
+    <td style="border:none; font-size:inherit;">
       <i>Cornell University AI for Science Institute, Cornell University</i>
     </td>
   </tr>
   <tr>
-    <td style="border:none;">Sep 2024–Aug 2025</td>
-    <td style="border:none;">
+    <td style="border:none; font-size:inherit;">Sep 2024–Aug 2025</td>
+    <td style="border:none; font-size:inherit;">
       <b>Ezra Postdoctoral Associate</b>
     </td>
   </tr>
   <tr>
-    <td style="border:none;"></td>
-    <td style="border:none;">
+    <td style="border:none; font-size:inherit;"></td>
+    <td style="border:none; font-size:inherit;">
       <i>College of Engineering, Cornell University</i>
     </td>
   </tr>
@@ -49,25 +49,25 @@ My research focuses on improving and applying AI and optimization to enhance the
 <table style="border-collapse:collapse; border:none;">
   <tr>
     <td style="width:180px; border:none;">Aug 2019–Jun 2024</td>
-    <td style="border:none;">
+    <td style="border:none; font-size:inherit;">
       <b>Ph.D. in Electrical Engineering, Tsinghua University</b>
     </td>
   </tr>
   <tr>
-    <td style="border:none;"></td>
-    <td style="border:none;">
+    <td style="border:none; font-size:inherit;"></td>
+    <td style="border:none; font-size:inherit;">
       <i>Department of Electrical Engineering</i>
     </td>
   </tr>
   <tr>
-    <td style="border:none;">Aug 2015–Jul 2019</td>
-    <td style="border:none;">
+    <td style="border:none; font-size:inherit;">Aug 2015–Jul 2019</td>
+    <td style="border:none; font-size:inherit;">
       <b>B.Eng. in Electrical Engineering and Automation, Tsinghua University</b>
     </td>
   </tr>
   <tr>
-    <td style="border:none;"></td>
-    <td style="border:none;">
+    <td style="border:none; font-size:inherit;"></td>
+    <td style="border:none; font-size:inherit;">
       <i>Department of Electrical Engineering</i>
     </td>
   </tr>
