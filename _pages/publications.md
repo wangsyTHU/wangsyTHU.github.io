@@ -14,6 +14,7 @@ author_profile: true
 1. **S. Wang** and W. Wu\*, “Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints,” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043–5051, Nov. 2021, doi: [10.1109/TSG.2021.3106646](https://ieeexplore.ieee.org/document/9520661). **[[Sample Code](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)]**
 1. **S. Wang**, X. Wang, and W. Wu\*, “Cloud Computing and Local Chip-Based Dynamic Economic Dispatch for Microgrids,” *IEEE Transactions on Smart Grid*, vol. 11, no. 5, pp. 3774–3784, Sep. 2020, doi: [10.1109/TSG.2020.2983556](https://ieeexplore.ieee.org/document/9047944).
 1. **S. Wang**, W. Wu\*, C. Lin, and B. Chen, “A Dynamic Equivalent Energy Storage Model of Natural Gas Networks for Joint Optimal Dispatch of Electricity-Gas Systems,” *IEEE Transactions on Sustainable Energy*, vol. 15, no. 1, pp. 621-632, Jan. 2024, doi: [10.1109/TSTE.2023.3318349](https://ieeexplore.ieee.org/document/10261292).
+1. **S. Wang**, M. T. Bergman, C. K. Hall\*, F. You\*, “De Novo Design Multiple Microplastic-Binding Peptides with a Protein Language Model-Guided Generative Adversarial Network,” *Journal of Chemical Information and Modeling*, vol. 65, no. 16, pp. 8527-8537, Aug. 2025, doi: [10.1021/acs.jcim.5c01401](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c01401).
 1. **S. Wang**, W. Wu\*, Q. Chen, J. Yu, and P. Wang, “Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources,” *CSEE Journal of Power and Energy Systems*, vol. 10, no. 3, pp. 988-999, May 2024, doi: [10.17775/CSEEJPES.2021.07410](https://ieeexplore.ieee.org/document/9862584). *(ESI Top 1% High Citation in July 2024)*
 1. **S. Wang** and W. Wu\*, “Aggregation Reference Model and Quantitative Metric System of Flexible Energy Resources,” *Automation of Electric Power Systems*, vol. 48, no. 03, pp. 1-9, Feb. 2024, doi: [10.7500/AEPS20230728003](http://www.aeps-info.com/aeps/article/abstract/20230728003).
 1. C. Feng, **S. Wang**, H. O. Gao and F. You\*, "Optimal Participation Design of DERs in General Frequency Shaping Services," *IEEE Transactions on Power Systems*, Early Access, 2025, doi: [10.1109/TPWRS.2025.3586137](https://ieeexplore.ieee.org/document/11074769).
@@ -23,9 +24,6 @@ author_profile: true
 1. S. Xu, W. Wu\*, C. Lin, Q. Wang, and **S. Wang**, “Efficient Solution of Adjustable Affine Chance-Constrained Real-Time Dispatch,” *IEEE Transactions on Power Systems*, vol. 40, no. 1, pp. 1192–1195, Jan. 2025, doi: [10.1109/TPWRS.2024.3498455](https://doi.org/10.1109/TPWRS.2024.3498455).
 1. W. Wu\*, B. Zhang, H. Sun, B. Wang, Y. Yang, H. Liu, C. Lin and **S. Wang** “Energy Management and Distributed Energy Resources Cluster Control for Active Distribution Networks,” *Automation of Electric Power Systems*, vol. 44, no. 09, pp. 111–118, May 2020, doi: [10.7500/AEPS20191030001](http://www.aeps-info.com/aeps/article/abstract/20191030001).
 
-
-## Interdisciplinary Research Papers
-1. **S. Wang**, M. T. Bergman, C. K. Hall\*, F. You\*, “De Novo Design Multiple Microplastic-Binding Peptides with a Protein Language Model-Guided Generative Adversarial Network,” *Journal of Chemical Information and Modeling*, vol. 65, no. 16, pp. 8527-8537, Aug. 2025, doi: [10.1021/acs.jcim.5c01401](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c01401).
 
 
 ## Conference Papers
