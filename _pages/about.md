@@ -46,32 +46,14 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 
 ## Education
-<table style="border-collapse:collapse; border:none;">
-  <tr>
-    <td style="width:180px; border:none;">Aug 2019–Jun 2024</td>
-    <td style="border:none; font-size:inherit;">
-      <b>Ph.D. in Electrical Engineering, Tsinghua University</b>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; font-size:inherit;"></td>
-    <td style="border:none; font-size:inherit;">
-      <i>Department of Electrical Engineering</i>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; font-size:inherit;">Aug 2015–Jul 2019</td>
-    <td style="border:none; font-size:inherit;">
-      <b>B.Eng. in Electrical Engineering and Automation, Tsinghua University</b>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; font-size:inherit;"></td>
-    <td style="border:none; font-size:inherit;">
-      <i>Department of Electrical Engineering</i>
-    </td>
-  </tr>
-</table>
+| **Aug 2019–Jun 2024** | **Ph.D. in Electrical Engineering, Tsinghua University**  
+Department of Electrical Engineering  
+**Supervisor:** Prof. Wenchuan Wu (Deputy Director of Department, IEEE Fellow)  
+**Dissertation:** Flexibility Aggregation and Coordination of Diverse Energy Resources  
+**Honors:** Tsinghua Outstanding Ph.D. Dissertation; Beijing & Tsinghua Outstanding Ph.D. Graduate; Tsinghua Jiang Nanxiang Principal Scholarship; Tsinghua Cercis Scholar |
+| **Aug 2015–Jul 2019** | **B.E. in Electrical Engineering, Tsinghua University**  
+Department of Electrical Engineering  
+**Honors:** Beijing Outstanding Thesis; Beijing & Tsinghua Outstanding Undergraduate |
 
 
 ## Research Interests
