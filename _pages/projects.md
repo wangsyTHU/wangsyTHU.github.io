@@ -5,19 +5,22 @@ permalink: /projects/
 author_profile: true
 ---
 
-1. **Research on Intelligent Cognition and Efficient Dispatch and Control of Generalized Loads** (*Natural Science Foundation of China*, 2021-2024)
+1. **Massive Microplastics Remediation using Novel Microcleaners and Microbiome Processing Accelerated by Artificial Intelligence** (*National Science Foundation*, EFMA-2029327, 2024-2025)
+- Generative AI-enhanced multiple microplastics-binding peptide sequences optimal design
+
+1. **Research on Intelligent Cognition and Efficient Dispatch and Control of Generalized Loads** (*Natural Science Foundation of China*, U2066601, 2021-2024)
 - Assess the controllability of generalized loads integrated with natural and social systems
 - Build the reference aggregation model and quantitative metric system for DERs
 - Develop software "Data-Driven Distribution Energy Management System (D3EMS)"
 
-2. **Key Techniques of Adaptive Grid Integration and Active Synchronization for Extremely High Distributed Photovoltaic Power Penetration Generation** (*National Key Research and Development Program*, 2023-peresent)
+2. **Key Techniques of Adaptive Grid Integration and Active Synchronization for Extremely High Distributed Photovoltaic Power Penetration Generation** (*National Key Research and Development Program*, 2022YFB2402900, 2023-2024)
 - Data-driven feedback control of resources in the distribution network
 - Mapping nonlinear dynamic device models to higher-dimensional linear models for model predictive control
 - Active support capabilities aggregation of distributed energy resources in the cluster
 - Optimal active voltage/frequency control with large-scale inverter-based resources
 
 
-3. **Optimal Dispatch and Operation of Virtual Power Plants by Aggregating Distributed Energy Resources** (*China Southern Grid*, 2018-2021)
+3. **Optimal Dispatch and Operation of Virtual Power Plants by Aggregating Distributed Energy Resources** (*China Southern Grid*, 2016YFB0900400, 2018-2021)
 - Aggregate and disaggregate of distributed energy resources in the VPPs
 - Simulate the bidding, market clearance, and settlement process of VPPs in the power market
 - Develop software "Intelligent Energy Management and Market Operation of Virtual Power Plants"

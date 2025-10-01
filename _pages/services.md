@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-## **Supervision experience**
+## Supervision experience
 
 - **May 2025–Present**  
   **Arjun M., Ph.D. student**  
@@ -13,27 +13,24 @@ author_profile: true
 
 ---
 
-## **Academic service**
+## Academic service
 
-- **Sep 2025–Present**  
-  **Schmidt AI in Science Postdoctoral Associate**, Cornell University  
+- **Sep 2025–Present: Schmidt AI in Science Postdoctoral Associate**, Cornell University  
   - Organize the *Cornell University AI for Sustainability Distinguished Lecture*  
   - Organize the *Cornell University AI for Sustainability Rising Star Colloquium*  
 
-- **Jun 2020–Dec 2021**  
-  **Chair of IEEE PES Tsinghua Student Branch Chapter**, IEEE Power & Energy Society  
+- **Jun 2020–Dec 2021: Chair of IEEE PES Tsinghua Student Branch Chapter**, IEEE Power & Energy Society  
   - Organize the *Modern Power System Academic Seminar* (twice)  
   - Provide academic supports and services for IEEE Members in this Branch Chapter  
 
-- **Jan 2020–Dec 2021**  
-  **Academic Assistant**, Department of Electrical Engineering, Tsinghua University  
+- **Jan 2020–Dec 2021, Academic Assistant**, Department of Electrical Engineering, Tsinghua University  
   - Organize the *Tsinghua University–IET Electrical Engineering Academic Forum* (twice)  
   - Organize the nation-wide *Electrical Engineering Online Academic Workshop* (five times)  
   - Provide academic supports and services for all faculty members and graduate students  
 
 ---
 
-## **Peer reviewer in journals**
+## Peer reviewer in journals
 
 - **IEEE**  
   *IEEE Transactions on Smart Grid*;  
