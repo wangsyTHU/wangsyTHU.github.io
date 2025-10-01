@@ -17,43 +17,25 @@ I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in
 My research focuses on improving and applying AI and optimization to enhance the secure and efficient operation of energy systems in the transition to a low-carbon future. My work includes quantifying the flexibility of distributed energy resources (DERs) and integrated energy systems (IESs), improving renewable generation forecasting, and analyzing the implications of energy and climate policies.
 
 ## Academic Appointments
-<table style="border-collapse:collapse; border:none;">
-  <tr>
-    <td style="width:180px; border:none;">Sep 2025–Present</td>
-    <td style="border:none; font-size:inherit;">
-      <b>Schmidt AI in Science Postdoctoral Associate</b>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; font-size:inherit;"></td>
-    <td style="border:none; font-size:inherit;">
-      <i>Cornell University AI for Science Institute, Cornell University</i>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; font-size:inherit;">Sep 2024–Aug 2025</td>
-    <td style="border:none; font-size:inherit;">
-      <b>Ezra Postdoctoral Associate</b>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; font-size:inherit;"></td>
-    <td style="border:none; font-size:inherit;">
-      <i>College of Engineering, Cornell University</i>
-    </td>
-  </tr>
-</table>
+- **Sep 2025–Present**  
+  **Schmidt AI in Science Postdoctoral Associate**  
+  *Cornell University AI for Science Institute, Cornell University*  
+
+- **Sep 2024–Aug 2025**  
+  **Ezra Postdoctoral Associate**  
+  *College of Engineering, Cornell University*
 
 
 ## Education
-| **Aug 2019–Jun 2024** | **Ph.D. in Electrical Engineering, Tsinghua University**  
-Department of Electrical Engineering  
-**Supervisor:** Prof. Wenchuan Wu (Deputy Director of Department, IEEE Fellow)  
-**Dissertation:** Flexibility Aggregation and Coordination of Diverse Energy Resources  
-**Honors:** Tsinghua Outstanding Ph.D. Dissertation; Beijing & Tsinghua Outstanding Ph.D. Graduate; Tsinghua Jiang Nanxiang Principal Scholarship; Tsinghua Cercis Scholar |
-| **Aug 2015–Jul 2019** | **B.E. in Electrical Engineering, Tsinghua University**  
-Department of Electrical Engineering  
-**Honors:** Beijing Outstanding Thesis; Beijing & Tsinghua Outstanding Undergraduate |
+- **Aug 2019–Jun 2024**  
+  **Ph.D. in Electrical Engineering, Tsinghua University**  
+  Department of Electrical Engineering  
+  **Supervisor:** Prof. Wenchuan Wu (Deputy Director of Department, IEEE Fellow)  
+ 
+- **Aug 2015–Jul 2019**  
+  **B.E. in Electrical Engineering, Tsinghua University**  
+  Department of Electrical Engineering  
+
 
 
 ## Research Interests
