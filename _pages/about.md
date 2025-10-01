@@ -17,15 +17,62 @@ I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in
 My research focuses on improving and applying AI and optimization to enhance the secure and efficient operation of energy systems in the transition to a low-carbon future. My work includes quantifying the flexibility of distributed energy resources (DERs) and integrated energy systems (IESs), improving renewable generation forecasting, and analyzing the implications of energy and climate policies.
 
 ## Academic Appointments
-Sep 2025-Present    **Schmidt AI in Science Postdoctoral Associate**  
-     *Cornell University AI for Science Institute, Cornell University*
-Sep 2024-Aug 2025    **Ezra Postdoctoral Associate**  
-     *College of Engineering, Cornell University*
+<table style="border-collapse:collapse; border:none;">
+  <tr>
+    <td style="width:180px; border:none;">Sep 2025–Present</td>
+    <td style="border:none;">
+      <b>Schmidt AI in Science Postdoctoral Associate</b>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"></td>
+    <td style="border:none;">
+      <i>Cornell University AI for Science Institute, Cornell University</i>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;">Sep 2024–Aug 2025</td>
+    <td style="border:none;">
+      <b>Ezra Postdoctoral Associate</b>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"></td>
+    <td style="border:none;">
+      <i>College of Engineering, Cornell University</i>
+    </td>
+  </tr>
+</table>
 
 
 ## Education
-* Aug. 2019 - Jun. 2024, Ph.D. in Electrical Engineering, Tsinghua University
-* Aug. 2015 - Jul. 2019, B.Eng. in Electrical Engineering and Automation, Tsinghua University
+<table style="border-collapse:collapse; border:none;">
+  <tr>
+    <td style="width:180px; border:none;">Aug 2019–Jun 2024</td>
+    <td style="border:none;">
+      <b>Ph.D. in Electrical Engineering, Tsinghua University</b>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"></td>
+    <td style="border:none;">
+      <i>Department of Electrical Engineering</i>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;">Aug 2015–Jul 2019</td>
+    <td style="border:none;">
+      <b>B.Eng. in Electrical Engineering and Automation, Tsinghua University</b>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;"></td>
+    <td style="border:none;">
+      <i>Department of Electrical Engineering</i>
+    </td>
+  </tr>
+</table>
+
 
 ## Research Interests
 * Apply AI and optimization to improve the secure and efficient operation of energy systems
