@@ -14,7 +14,7 @@ redirect_from:
 
 I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in [PEESE research group](https://www.peese.org/), led by [Prof. Fengqi You](https://www.peese.org/professor/). Previously, I was an Ezra Postdoctoral Associate in Energy Systems at Cornell University. I obtained my Ph.D. degree from the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), and I was a member of the [EMS R&D Team](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm) led by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm).
 
-My research focuses on optimization algorithms, and their applications in the operation and control of energy systems. Currently, I am developing data-driven solutions to address the challenges of integrating high renewable generation in power systems amid the energy sector's transition to decarbonization.
+My research focuses on improving and applying AI and optimization to enhance the secure and efficient operation of energy systems in the transition to a low-carbon future. My work includes quantifying the flexibility of distributed energy resources (DERs) and integrated energy systems (IESs), improving renewable generation forecasting, and analyzing the implications of energy and climate policies.
 
 ## Academic Appointments
 * Sep. 2025 - Present, Schmidt AI in Science Postdoctoral Associate, Cornell University AI for Science Institute & College of Engineering, Cornell University
@@ -25,14 +25,13 @@ My research focuses on optimization algorithms, and their applications in the op
 * Aug. 2015 - Jul. 2019, B.Eng. in Electrical Engineering and Automation, Tsinghua University
 
 ## Research Interests
-* Domain knowledge embedded data-driven methods for reliable control in the energy system
-* Flexibility aggregation and coordination of diverse energy resources
-* Data-driven-aided calculation of complex optimization problems
-* Data-driven feedback optimal control of devices in the energy system
-* Cloud-edge collaborative agile control of distributed energy resources
+* Apply AI and optimization to improve the secure and efficient operation of energy systems
+* Quantify flexibility of distributed energy resources (DERs) and integrated energy systems (IESs)
+* Forecast renewable generation through multimodal data integration
+* Analyze the implications of energy and climate policies
 
 ## News
-[Sep. 15, 2025] I start my Eric and Wendy Schmidt AI in Science Postdoc Fellow position at Cornell University.
+[Sep. 15, 2025] I start my Schmidt AI in Science Postdoctoral Associate position at Cornell University.
 
 [Sep. 15, 2024] I start my Ezra Postdoctoral Associate position at Cornell University.
 
