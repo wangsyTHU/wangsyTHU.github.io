@@ -66,6 +66,9 @@ author_profile: true
 2017    **Tsinghua Academic Excellence Scholarship**  
      *Tsinghua University*
 
+2016    **Ultra High Voltage Power Grid Scholarship** (**4/134**)  
+     *State Grid Corporation of China*
+
 2016    **Tsinghua Academic Excellence Scholarship**  
      *Tsinghua University*
 
