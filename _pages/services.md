@@ -32,20 +32,20 @@ author_profile: true
 ## Peer reviewer in journals
 
 - **IEEE**  
-  *IEEE Transactions on Smart Grid*;  
-  *IEEE Transactions on Sustainable Energy*;  
-  *IEEE Transactions on Power Systems*;  
-  *IEEE Transactions on Energy Markets, Policy, and Regulation*;  
-  *IEEE Power Engineering Letters*;  
-  *CSEE Journal of Power and Energy Systems*;  
+  *IEEE Transactions on Smart Grid*  
+  *IEEE Transactions on Sustainable Energy*  
+  *IEEE Transactions on Power Systems*  
+  *IEEE Transactions on Energy Markets, Policy, and Regulation*  
+  *IEEE Power Engineering Letters*  
+  *CSEE Journal of Power and Energy Systems*  
   *IEEE Systems Journal*  
 
 - **Elsevier**  
-  *Applied Energy*;  
-  *Energy*;  
-  *Electric Power Systems Research*;  
-  *International Journal of Electrical Power and Energy Systems*;  
-  *Sustainable Energy, Grids and Networks*;  
+  *Applied Energy*  
+  *Energy*  
+  *Electric Power Systems Research*  
+  *International Journal of Electrical Power and Energy Systems*  
+  *Sustainable Energy, Grids and Networks*  
   *Global Energy Interconnection*  
 
 - **Others**  
