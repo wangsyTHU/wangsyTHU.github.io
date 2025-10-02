@@ -42,7 +42,7 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 * Apply AI and optimization to improve the secure and efficient operation of energy systems
 * Quantify flexibility of virtual power plants (VPPs) and integrated energy systems (IESs)
-* Forecast renewable generation through multimodal data fusion and AI
+* Forecast renewable generation with AI and multimodal data
 * Provide insights for sustainable energy and climate policymaking
 
 
