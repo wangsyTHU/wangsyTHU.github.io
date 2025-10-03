@@ -46,6 +46,26 @@ My research focuses on improving and applying AI and optimization to enhance the
 * Provide insights for sustainable energy and climate policymaking
 
 
+## Research Grants and Fellowships
+
+- **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, Cornell University** ($100k), 2025  
+  *AI-Driven Sustainable Solutions for Energy Systems*  
+  *Fellowship Recipient, supported by Schmidt Sciences, LLC*
+
+- **Ezra Scholar in Energy Systems Engineering, Cornell University** ($61k), 2024  
+  *AI-Enhanced Multimodal Forecasting for Renewable Generation*  
+  *Fellowship Recipient, supported by the Cornell University Systems Engineering Program*
+
+- **Cercis Scholar, Tsinghua University** (¥240k), 2024  
+  *AI-Enabled Safe and Reliable Low-Carbon Power System Operations*  
+  *Fellowship Recipient*
+
+- **National Natural Science Foundation of China (NSFC)** (Grant No. U2066601), 2020  
+  *Research on Intelligent Cognition and Efficient Dispatch and Control of Generalized Loads*  
+  *Co-author and contributor to funded proposal*
+
+
+
 ## News
 
 **Sep 15, 2025** I start my Schmidt AI in Science Postdoctoral Associate position at Cornell University with *Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship*.

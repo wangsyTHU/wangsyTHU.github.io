@@ -7,13 +7,13 @@ author_profile: true
 
 ## Selected Awards and Honor
 2025    **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship**  
-     *Cornell University*
+     *Cornell University and Schmidt Sciences, LLC*
 
 2025    **Finalist of the IEEE Power & Energy Society Ph.D. Dissertation Challenge** (**Top 20**)  
      *IEEE Power & Energy Society at 2025 IEEE PES Grid Edge Technologies Conference*
 
 2024    **Ezra Systems Scholar**  
-     *Cornell University System Engineering Program*
+     *Cornell University Systems Engineering Program*
 
 2024    **Tsinghua Cercis Scholar** (**<span style="color:blue;">10 recipients university-wide</span>**)  
      *Tsinghua University*

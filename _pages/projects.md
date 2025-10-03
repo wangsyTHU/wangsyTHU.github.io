@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-1. **Massive Microplastics Remediation using Novel Microcleaners and Microbiome Processing Accelerated by Artificial Intelligence** (*National Science Foundation*, EFMA-2029327, 2024-2025)
+1. **Massive Microplastics Remediation using Novel Microcleaners and Microbiome Processing Accelerated by Artificial Intelligence** (*National Science Foundation (NSF)*, EFMA-2029327, 2024-2025)
 - Generative AI-enhanced multiple microplastics-binding peptide sequences optimal design
 
-1. **Research on Intelligent Cognition and Efficient Dispatch and Control of Generalized Loads** (*Natural Science Foundation of China*, U2066601, 2021-2024)
+1. **Research on Intelligent Cognition and Efficient Dispatch and Control of Generalized Loads** (*National Natural Science Foundation of China (NSFC)*, U2066601, 2021-2024)
 - Assess the controllability of generalized loads integrated with natural and social systems
 - Build the reference aggregation model and quantitative metric system for DERs
 - Develop software "Data-Driven Distribution Energy Management System (D3EMS)"
