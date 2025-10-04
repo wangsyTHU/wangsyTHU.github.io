@@ -17,7 +17,7 @@ I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in
 My research focuses on improving and applying AI and optimization to enhance the secure and efficient operation of energy systems in the transition to a low-carbon future. My work includes quantifying the flexibility of virtual power plants (VPPs) and integrated energy systems (IESs), improving renewable generation forecasting, and  providing insights for sustainable energy and climate policymaking.
 
 
-## Academic Appointments
+## Academic appointments
 
 - **Schmidt AI in Science Postdoctoral Associate, Cornell University**, *Sep 2025–Present*  
   Cornell University AI for Science Institute  
@@ -38,7 +38,7 @@ My research focuses on improving and applying AI and optimization to enhance the
   Department of Electrical Engineering  
 
 
-## Research Interests
+## Research interests
 
 * Apply AI and optimization to improve the secure and efficient operation of energy systems
 * Quantify flexibility of virtual power plants (VPPs) and integrated energy systems (IESs)
@@ -46,7 +46,7 @@ My research focuses on improving and applying AI and optimization to enhance the
 * Provide insights for sustainable energy and climate policymaking
 
 
-## Research Grants and Fellowships
+## Research grants and fellowships
 
 - **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, Cornell University** ($100k), 2025  
   *AI-Driven Sustainable Solutions for Energy Systems*  

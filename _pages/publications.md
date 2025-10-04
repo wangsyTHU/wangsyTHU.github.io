@@ -9,7 +9,7 @@ author_profile: true
 1. **S. Wang**, W. Wu\*, C. Lin, Q. Wang, S. Xu, and B. Chen,"Physics-Informed Recurrent Network for State-Space Modeling of Gas Pipeline Networks", *arXiv preprint*, [arXiv:2502.07230](https://arxiv.org/abs/2502.07230), 2025.
 
 
-## Journal Papers
+## Journal papers
 1. **S. Wang** and W. Wu\*, “Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints,” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043–5051, Nov. 2021, doi: [10.1109/TSG.2021.3106646](https://ieeexplore.ieee.org/document/9520661). *(<span style="color:blue;">~200 Citations</span>)* [[<span style="color:blue;">Sample Code</span>](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)]
 
 1. **S. Wang**, W. Wu\*, Q. Chen, J. Yu, and P. Wang, “Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources,” *CSEE Journal of Power and Energy Systems*, vol. 10, no. 3, pp. 988-999, May 2024, doi: [10.17775/CSEEJPES.2021.07410](https://ieeexplore.ieee.org/document/9862584). *(<span style="color:blue;">ESI Top 1% High Citation in July 2024</span>)*
@@ -38,7 +38,7 @@ author_profile: true
 
 
 
-## Conference Papers
+## Conference papers
 1. **S. Wang**, C. Feng, H. O. Gao and F. You\*, "Aggregate the Equivalent Storage Flexibility of District Heat Network for Non-Iterative Integrated Electricity-Heat Scheduling," *2025 IEEE Power and Energy Society General Meeting (PESGM)*, Austin, TX, USA, 2025, pp. 1-5.
 
 1. G. Sun, **S. Wang\***, X. Jia, W. Wu, and H. Li, “Evaluating Stochastic Flexibility Model of Vehicle Charge Stations in Distribution Network,” in *2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)*, Oct. 2021, pp. 30–35. doi: [10.1109/EI252483.2021.9712912](https://ieeexplore.ieee.org/document/9712912).

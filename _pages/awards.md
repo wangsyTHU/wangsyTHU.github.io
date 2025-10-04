@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Selected Awards and Honor
+## Selected awards and honors
 2025    **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship**  
      *Cornell University and Schmidt Sciences, LLC*
 

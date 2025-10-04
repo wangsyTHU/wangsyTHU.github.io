@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Invited Talks
+## Invited talks
 
 1. **Jul 2025** “Aggregate the Equivalent Storage Flexibility of District Heat Network for Non-Iterative Integrated Electricity-Heat Scheduling,” *2025 IEEE Power and Energy Society General Meeting (PESGM)*.
 
