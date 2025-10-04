@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "Siyuan"
 author_profile: true
 redirect_from: 
@@ -74,13 +74,13 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 **Jul 15, 2024** - Our paper entitled "Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources" is selected as the *ESI Top 1% High Citation* paper.
 
-**Jun 30, 2024** - I graduate from Tsinghua University with the honors *Beijing & Tsinghua University Outstanding Ph.D. Graduate* and *Tsinghua University Outstanding Ph.D. Dissertation*
+**Jun 30, 2024** - I graduate from Tsinghua University with the honors *Beijing & Tsinghua  Outstanding Ph.D. Graduate* and *Tsinghua Outstanding Ph.D. Dissertation*
 
 **May 22, 2024** - I have successfully passed my Ph.D. dissertation defense, entitled *"Flexibility Aggregation and Coordination of Diverse Energy Resources"*.
 
-**May 13, 2024** - I was selected as the *Tsinghua University Cercis Scholar*.
+**May 13, 2024** - I was selected as the *Tsinghua Cercis Scholar*.
 
-**Dec 14, 2023** - I received the *Tsinghua University Jiang Nanxiang Scholarship*.
+**Dec 14, 2023** - I received the *Tsinghua University Jiang Nanxiang Principal Scholarship*.
 
 
 
