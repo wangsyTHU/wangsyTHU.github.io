@@ -14,7 +14,7 @@ redirect_from:
 
 I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in [PEESE research group](https://www.peese.org/), led by [Prof. Fengqi You](https://www.engineering.cornell.edu/people/fengqi-you/). Previously, I was an Ezra Postdoctoral Associate in Energy Systems at Cornell University. I obtained my Ph.D. degree from the [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/en/index.htm) at Tsinghua University, supervised by [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm), and I was a member of the [EMS R&D Team](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm) led by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm).
 
-My research focuses on improving and applying AI and optimization to enhance the secure and efficient operation of energy systems in the transition to a low-carbon future. My work includes quantifying the flexibility of virtual power plants (VPPs) and integrated energy systems (IESs), improving renewable generation forecasting, and  providing insights for sustainable energy and climate policymaking.
+My research focuses on improving and applying AI and optimization to enhance the secure and efficient operation of energy systems in the transition to a low-carbon future. My work includes quantifying the flexibility of distributed energy resources and diverse energy systems, improving renewable generation forecasting, and providing insights for sustainable energy and climate policymaking.
 
 
 ## Academic appointments
@@ -40,10 +40,10 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 ## Research interests
 
-* Apply AI and optimization to improve the secure and efficient operation of energy systems
-* Quantify flexibility of virtual power plants (VPPs) and integrated energy systems (IESs)
-* Forecast renewable generation with AI and multimodal data
-* Provide insights for sustainable energy and climate policymaking
+* Apply AI and optimization to improve the secure and efficient operation of energy systems  
+* Quantify the flexibility of distributed energy resources and diverse energy systems  
+* Forecast renewable generation with AI and multimodal data  
+* Provide insights for sustainable energy and climate policymaking 
 
 
 ## Research grants and fellowships
