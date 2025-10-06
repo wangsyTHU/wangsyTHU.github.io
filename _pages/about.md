@@ -48,11 +48,11 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 ## Research grants and fellowships
 
-- **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, Cornell University** ($100k), 2025  
+- **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, Cornell University**, 2025  
   *AI-Driven Sustainable Solutions for Energy Systems*  
   *Fellowship Recipient, supported by Schmidt Sciences, LLC*
 
-- **Ezra Scholar in Energy Systems Engineering, Cornell University** ($61k), 2024  
+- **Ezra Scholar in Energy Systems Engineering, Cornell University**, 2024  
   *AI-Enhanced Multimodal Forecasting for Renewable Generation*  
   *Fellowship Recipient, supported by the Cornell University Systems Engineering Program*
 
