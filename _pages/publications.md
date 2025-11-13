@@ -39,7 +39,7 @@ author_profile: true
 
 
 ## Conference papers
-1. **S. Wang**, C. Feng, H. O. Gao and F. You\*, "Aggregate the Equivalent Storage Flexibility of District Heat Network for Non-Iterative Integrated Electricity-Heat Scheduling," *2025 IEEE Power and Energy Society General Meeting (PESGM)*, Austin, TX, USA, 2025, pp. 1-5.
+1. **S. Wang**, C. Feng, H. O. Gao and F. You\*, "Aggregate the Equivalent Storage Flexibility of District Heat Network for Non-Iterative Integrated Electricity-Heat Scheduling," *2025 IEEE Power and Energy Society General Meeting (PESGM)*, Austin, TX, USA, 2025, pp. 1-5. doi: [10.1109/PESGM52009.2025.11225606](https://ieeexplore.ieee.org/document/11225606)
 
 1. G. Sun, **S. Wang\***, X. Jia, W. Wu, and H. Li, “Evaluating Stochastic Flexibility Model of Vehicle Charge Stations in Distribution Network,” in *2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)*, Oct. 2021, pp. 30–35. doi: [10.1109/EI252483.2021.9712912](https://ieeexplore.ieee.org/document/9712912).
 
