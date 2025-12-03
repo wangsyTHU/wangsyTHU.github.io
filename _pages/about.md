@@ -40,11 +40,11 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 ## Research interests
 
-* Apply AI and optimization to improve the secure and efficient operation of energy systems  
-* Quantify the flexibility of distributed energy resources and diverse energy systems  
-* Forecast renewable generation with AI and multimodal data  
-* Provide insights for sustainable energy and climate policymaking 
-
+* Apply AI and optimization to enhance the security and efficiency of energy systems.
+* Quantify the flexibility of distributed and integrated energy resources.
+* Plan and optimize emerging large industrial loads.
+* Monitor system operations using AI and multimodal sensing data.
+* Provide insights to support sustainable energy and climate policy.
 
 ## Research grants and fellowships
 
