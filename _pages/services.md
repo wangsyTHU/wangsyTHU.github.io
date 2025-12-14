@@ -5,12 +5,12 @@ permalink: /services/
 author_profile: true
 ---
 
-## Supervision experience
+<!-- ## Supervision experience
 
 - **Arjun M., Ph.D. student**, *May 2025–Present*  
-  *Hierarchical Reinforcement Learning Approach for Adaptive Commercial Virtual Power Plant Coordination*  
+  *Hierarchical Reinforcement Learning for Lifecycle-Aware and Coordinated Control of Virtual Power Plants*  
 
----
+--- -->
 
 ## Academic service
 
@@ -46,7 +46,9 @@ author_profile: true
   *Electric Power Systems Research*  
   *International Journal of Electrical Power and Energy Systems*  
   *Sustainable Energy, Grids and Networks*  
-  *Global Energy Interconnection*  
+  *Global Energy Interconnection* 
+  *Energy Strategy Reviews*
+  *Cyber-Physical Energy Systems* 
 
 - **Others**  
   *Science Advances* (AAAS)  
