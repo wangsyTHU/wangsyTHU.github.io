@@ -1,0 +1,23 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "AI and optimization",
+  "Energy system flexibility",
+  "Emerging large loads",
+  "AI and multimodal data",
+  "Energy policy analysis"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "news"
+type = "list"
+source = "news.toml"
+title = "News"

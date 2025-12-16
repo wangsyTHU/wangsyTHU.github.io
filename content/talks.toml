@@ -1,0 +1,30 @@
+type = "list"
+title = "Talks"
+
+[[items]]
+date = "2025-07"
+content = "**Aggregate the Equivalent Storage Flexibility of District Heat Network for Non-Iterative Integrated Electricity-Heat Scheduling**, *2025 IEEE Power and Energy Society General Meeting (PESGM).*"
+
+[[items]]
+date = "2025-01"
+content = "**Flexibility Aggregation and Coordination of Diverse Energy Resources**, *2025 IEEE PES Grid Edge Technologies Conference.*"
+
+[[items]]
+date = "2024-05"
+content = "**Reference Aggregation Model and Quantitative Metrics System of Flexible Energy Resources**, *2024 Tsinghua University--IET Electrical Engineering Academic Forum.*"
+
+[[items]]
+date = "2024-05"
+content = "**Flexibility Aggregation and Coordination of Diverse Energy Resources**, *PEESE Group, Cornell University.*"
+
+[[items]]
+date = "2021-10"
+content = "**Evaluating Stochastic Flexibility Model of Vehicle Charge Stations in Distribution Network**, *2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2).*"
+
+[[items]]
+date = "2021-05"
+content = "**Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources**, *2021 Tsinghua University--IET Electrical Engineering Academic Forum.*"
+
+[[items]]
+date = "2020-05"
+content = "**Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints**, *2020 Tsinghua University--IET Electrical Engineering Academic Forum.*"

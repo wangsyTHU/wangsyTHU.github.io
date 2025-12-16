@@ -1,0 +1,76 @@
+[site]
+title = "Siyuan Wang"
+description = "Schmidt AI in Science Postdoctoral Associate at Cornell University."
+favicon = "/GlowingStar.svg"
+last_updated = "December, 2025"
+
+[author]
+name = "Siyuan Wang (王思远)"
+title = "Schmidt AI in Science Postdoctoral Associate"
+institution = "Cornell University"
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "siyuan.wang@cornell.edu"
+location = "Ithaca, USA"
+location_url = "https://maps.app.goo.gl/A9ZRHWBmUtJcSehx6"
+location_details = [
+  "113 Ho Plz",
+  "Ithaca, NY 14853"
+]
+google_scholar = "https://scholar.google.com/citations?user=Lp2o-uwAAAAJ&hl=en"
+orcid = "http://orcid.org/0000-0001-9201-2452"
+github = "https://github.com/wangsyTHU"
+linkedin = "https://www.linkedin.com/in/siyuan-wang-aa7480133/"
+researchgate = "https://www.researchgate.net/profile/Siyuan-Wang-37"
+
+[features]
+# Show a like button on the about page
+enable_likes = false
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Experiences"
+type = "page"
+target = "experiences"
+href = "/experiences"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "Talks"
+type = "page"
+target = "talks"
+href = "/talks"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
