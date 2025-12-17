@@ -173,7 +173,7 @@ export default function Profile({ author, social, features, researchInterests }:
             <div className="text-center mb-6">
                 <div className="text-3xl font-serif font-bold text-primary mb-2 leading-snug">
                     <div>{englishName}</div>
-                    <div className="mt-1">{chineseName}</div>
+                    <div className="mt-1 text-2xl">{chineseName}</div>
                 </div>
                 <p className="text-lg text-accent font-medium mb-1">
                     {author.title}
@@ -369,7 +369,7 @@ export default function Profile({ author, social, features, researchInterests }:
 
             {/* Research Interests */}
             {researchInterests && researchInterests.length > 0 && (
-                <div className="bg-neutral-100 dark:bg-neutral-800 rounded-lg p-4 mb-4 hover:shadow-lg transition-all duration-200 hover:scale-[1.02]">
+                <div className="bg-neutral-100 dark:bg-neutral-800 rounded-lg p-4 mb-4 hover:shadow-lg transition-all duration-200 hover:scale-[1.02] w-64 max-w-full mx-auto">
                     <h3 className="font-semibold text-primary mb-3">Key Words</h3>
                     <div className="space-y-2 text-sm text-neutral-700 dark:text-neutral-500">
                         {researchInterests.map((interest, index) => (
@@ -382,8 +382,7 @@ export default function Profile({ author, social, features, researchInterests }:
             <div className="mb-6">
                 <div
                     ref={mapContainerRef}
-                    className="rounded-xl overflow-hidden border border-neutral-200 dark:border-neutral-700 bg-white dark:bg-neutral-900 shadow-sm"
-                    style={{ width: 300, height: 168 }}
+                    className="w-fit h-fit rounded-xl overflow-hidden border border-neutral-200 dark:border-neutral-700 bg-white dark:bg-neutral-900 shadow-sm mx-auto"
                 />
             </div>
 
