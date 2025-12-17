@@ -2,33 +2,47 @@ type = "sectioned"
 title = "Experiences"
 
 [[sections]]
+id = "academic_appointments_heading"
+type = "text"
+content = "<h3 class=\"text-xl font-bold\">Academic Appointments</h3>"
+
+[[sections]]
 id = "academic_appointments"
-type = "list"
-title = "Academic Appointments"
+type = "card"
 
   [[sections.items]]
-  date = "2025/09–Present"
-  content = "**Schmidt AI in Science Postdoctoral Associate**, Cornell University<br/><em>Cornell University AI for Science Institute, College of Engineering</em>"
+  title = "Schmidt AI in Science Postdoctoral Associate"
+  subtitle = "Cornell University AI for Science Institute, College of Engineering"
+  date = "2025/09 - Present"
+  content = "**Mentor:** Prof. Fengqi You in PEESE Lab"
+  image = "/Cornell.svg"
 
   [[sections.items]]
-  date = "2024/09–2025/08"
-  content = "**Ezra Postdoctoral Associate**, Cornell University<br/><em>Department of Systems Engineering, College of Engineering</em><br/>Mentor: Prof. Fengqi You"
+  title = "Ezra Postdoctoral Associate"
+  subtitle = "College of Engineering, Cornell University"
+  date = "2024/09 - 2025/08"
+  content = "**Mentor:** Prof. Fengqi You in PEESE Lab"
+  image = "/Cornell.svg"
+
+[[sections]]
+id = "education_heading"
+type = "text"
+content = "<h3 class=\"text-xl font-bold\">Education</h3>"
 
 [[sections]]
 id = "education"
-type = "list"
-title = "Education"
+type = "card"
 
   [[sections.items]]
-  date = "2019/08–2024/06"
-  content = "**Ph.D., Electrical Engineering**, Tsinghua University<br/><em>Department of Electrical Engineering</em><br/>Supervisor: Prof. Wenchuan Wu (Deputy Director of Department, IEEE Fellow)<br/>Dissertation: <em>Flexibility Aggregation and Coordination of Diverse Energy Resources</em>"
+  title = "Ph.D., Electrical Engineering"
+  subtitle = "Department of Electrical Engineering, Tsinghua University"
+  date = "2019/08 - 2024/06"
+  content = """**Supervisor:** Prof. Wenchuan Wu<br/>
+**Laboratory:** EMS Lab led by Prof. Hongbin Sun<br/>"""
+  image = "/Tsinghua.svg"
 
   [[sections.items]]
-  date = "2015/08–2019/07"
-  content = "**B.E., Electrical Engineering**, Tsinghua University<br/><em>Department of Electrical Engineering</em>"
-
-[[sections]]
-id = "research_grants"
-type = "markdown"
-title = "Research Grants and Fellowships"
-source = "grants.md"
+  title = "B.E., Electrical Engineering"
+  subtitle = "Department of Electrical Engineering, Tsinghua University"
+  date = "2015/08 - 2019/07"
+  image = "/Tsinghua.svg"

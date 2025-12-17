@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { getPageConfig, getMarkdownContent, getBibtexContent } from '@/lib/content';
+import { getPageConfig, getMarkdownContent, getBibtexContent, getTomlContent } from '@/lib/content';
 import { getConfig } from '@/lib/config';
 import { parseBibTeX } from '@/lib/bibtexParser';
 import PublicationsList from '@/components/publications/PublicationsList';
@@ -17,6 +17,8 @@ import {
     SectionConfig,
     ListSectionConfig,
     MarkdownSectionConfig,
+    TextSectionConfig,
+    CardSectionConfig,
 } from '@/types/page';
 
 import { Metadata } from 'next';
@@ -96,9 +98,23 @@ function resolveSections(sections: SectionConfig[]): ResolvedSection[] {
             return resolved;
         }
 
+        if (section.type === 'text') {
+            const textSection = section as TextSectionConfig;
+            const content = textSection.content ?? (textSection.source ? getMarkdownContent(textSection.source) : '');
+            const resolved: ResolvedSection = { ...textSection, type: 'text', content };
+            return resolved;
+        }
+
         if (section.type === 'list') {
             const listSection = section as ListSectionConfig;
             const resolved: ResolvedSection = { ...listSection, type: 'list', items: listSection.items || [] };
+            return resolved;
+        }
+
+        if (section.type === 'card') {
+            const cardSection = section as CardSectionConfig;
+            const data = cardSection.source ? getTomlContent<{ items?: CardSectionConfig['items'] }>(cardSection.source) : null;
+            const resolved: ResolvedSection = { ...cardSection, type: 'card', items: cardSection.items || data?.items || [] };
             return resolved;
         }
 

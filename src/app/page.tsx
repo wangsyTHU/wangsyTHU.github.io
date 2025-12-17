@@ -22,6 +22,8 @@ import {
   SectionConfig as SharedSectionConfig,
   ListSectionConfig,
   MarkdownSectionConfig,
+  TextSectionConfig,
+  CardSectionConfig,
 } from '@/types/page';
 
 // Define types for section config
@@ -36,7 +38,9 @@ type SectionConfig =
     limit?: number;
     content?: string;
     publications?: Publication[];
-  };
+  }
+  | (TextSectionConfig & { id: string })
+  | (CardSectionConfig & { id: string });
 
 type PageData =
   | { type: 'about', id: string, sections: SectionConfig[] }
@@ -84,6 +88,21 @@ export default function Home() {
             items: listSection.items || data?.items || data?.news || []
           };
         }
+        case 'text': {
+          const textSection = section as TextSectionConfig;
+          return {
+            ...section,
+            content: textSection.content ?? (textSection.source ? getMarkdownContent(textSection.source) : '')
+          };
+        }
+        case 'card': {
+          const cardSection = section as CardSectionConfig;
+          const data = cardSection.source ? getTomlContent<{ items?: CardSectionConfig['items'] }>(cardSection.source) : null;
+          return {
+            ...section,
+            items: cardSection.items || data?.items || []
+          };
+        }
         default:
           return section;
       }
@@ -100,9 +119,18 @@ export default function Home() {
         const content = markdownSection.content ?? (markdownSection.source ? getMarkdownContent(markdownSection.source) : '');
         return { ...markdownSection, type: 'markdown', content };
       }
+      if (section.type === 'text') {
+        const textSection = section as TextSectionConfig;
+        const content = textSection.content ?? (textSection.source ? getMarkdownContent(textSection.source) : '');
+        return { ...textSection, type: 'text', content };
+      }
       if (section.type === 'list') {
         const listSection = section as ListSectionConfig;
         return { ...listSection, type: 'list', items: listSection.items || [] };
+      }
+      if (section.type === 'card') {
+        const cardSection = section as CardSectionConfig;
+        return { ...cardSection, type: 'card', items: cardSection.items || [] };
       }
       // Skip unsupported types in sectioned pages
       return { ...section, type: 'markdown', content: '' } as ResolvedSection;

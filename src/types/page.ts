@@ -32,6 +32,14 @@ export interface MarkdownSectionConfig {
     content?: string;
 }
 
+export interface TextSectionConfig {
+    id?: string;
+    type: 'text';
+    title?: string;
+    source?: string;
+    content?: string;
+}
+
 export interface ListSectionConfig {
     id?: string;
     type: 'list';
@@ -40,7 +48,15 @@ export interface ListSectionConfig {
     source?: string;
 }
 
-export type SectionConfig = MarkdownSectionConfig | ListSectionConfig;
+export interface CardSectionConfig {
+    id?: string;
+    type: 'card';
+    title?: string;
+    items?: CardItem[];
+    source?: string;
+}
+
+export type SectionConfig = MarkdownSectionConfig | TextSectionConfig | ListSectionConfig | CardSectionConfig;
 
 export interface SectionedPageConfig extends BasePageConfig {
     type: 'sectioned';

@@ -4,8 +4,11 @@ title = "About"
 [profile]
 research_interests = [
   "AI and optimization",
-  "Energy system flexibility",
-  "Emerging large loads",
+  "Flexibility aggregation",
+  "Integrated energy system",
+  "Virtual power plant",
+  "Data center",
+  "Power-to-X industry",
   "AI and multimodal data",
   "Energy policy analysis"
 ]
@@ -15,6 +18,12 @@ id = "about"
 type = "markdown"
 source = "bio.md"
 title = "About"
+
+[[sections]]
+id = "research_grants"
+type = "markdown"
+title = "Research Grants and Fellowships"
+source = "grants.md"
 
 [[sections]]
 id = "news"

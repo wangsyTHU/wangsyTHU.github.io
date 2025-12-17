@@ -10,6 +10,6 @@
   *AI-Enabled Safe and Reliable Low-Carbon Power System Operations*  
   Fellowship recipient
 
-- **National Natural Science Foundation of China (NSFC)** – Grant No. U2066601 (*2020*)  
+<!-- - **National Natural Science Foundation of China (NSFC)** – Grant No. U2066601 (*2020*)  
   *Research on Intelligent Cognition and Efficient Dispatch and Control of Generalized Loads*  
-  Co-author and contributor to funded proposal
+  Co-author and contributor to funded proposal -->

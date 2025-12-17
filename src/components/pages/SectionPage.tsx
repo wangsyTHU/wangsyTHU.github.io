@@ -3,11 +3,14 @@
 import { motion } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
-import { ListItem, SectionConfig } from '@/types/page';
+import Image from 'next/image';
+import { CardItem, ListItem, SectionConfig } from '@/types/page';
 
 export type ResolvedSection =
     | ({ type: 'markdown'; content: string } & Omit<SectionConfig, 'type' | 'content'>)
-    | ({ type: 'list'; items: ListItem[] } & Omit<SectionConfig, 'type' | 'items'>);
+    | ({ type: 'text'; content: string } & Omit<SectionConfig, 'type' | 'content'>)
+    | ({ type: 'list'; items: ListItem[] } & Omit<SectionConfig, 'type' | 'items'>)
+    | ({ type: 'card'; items: CardItem[] } & Omit<SectionConfig, 'type' | 'items'>);
 
 interface SectionPageProps {
     title: string;
@@ -61,6 +64,25 @@ export default function SectionPage({ title, description, sections, embedded = f
                             </div>
                         )}
 
+                        {section.type === 'text' && (
+                            <div className="text-neutral-700 dark:text-neutral-200 leading-relaxed">
+                                <ReactMarkdown
+                                    rehypePlugins={[rehypeRaw]}
+                                    skipHtml={false}
+                                    components={{
+                                        p: ({ children }) => <p className="mb-4 last:mb-0">{children}</p>,
+                                        ul: ({ children }) => <ul className="list-disc list-outside mb-4 space-y-1 ml-6">{children}</ul>,
+                                        ol: ({ children }) => <ol className="list-decimal list-outside mb-4 space-y-1 ml-6">{children}</ol>,
+                                        li: ({ children }) => <li className="mb-1">{children}</li>,
+                                        strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
+                                        em: ({ children }) => <em className="italic text-neutral-600 dark:text-neutral-400">{children}</em>,
+                                    }}
+                                >
+                                    {section.content || ''}
+                                </ReactMarkdown>
+                            </div>
+                        )}
+
                         {section.type === 'list' && (
                             <div className="space-y-4">
                                 {(section.items || []).map((item, i) => (
@@ -78,6 +100,78 @@ export default function SectionPage({ title, description, sections, embedded = f
                                             >
                                                 {item.content || ''}
                                             </ReactMarkdown>
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        )}
+
+                        {section.type === 'card' && (
+                            <div className="grid gap-4">
+                                {(section.items || []).map((item, i) => (
+                                    <div key={i} className="bg-white dark:bg-neutral-900 p-4 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800">
+                                        <div className="flex items-start gap-3">
+                                            {item.image && (
+                                                <Image
+                                                    src={item.image}
+                                                    alt={item.title || 'Card logo'}
+                                                    width={56}
+                                                    height={56}
+                                                    className="w-14 h-14 rounded-md object-contain"
+                                                />
+                                            )}
+                                            <div className="flex-1">
+                                                <div className="flex justify-between items-start mb-2">
+                                                    <h3 className="text-base font-semibold text-primary">{item.title}</h3>
+                                                    {item.date && (
+                                                        <span className="text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
+                                                            {item.date}
+                                                        </span>
+                                                    )}
+                                                </div>
+                                                {item.subtitle && (
+                                                    <p className="text-sm text-accent font-medium mb-2">{item.subtitle}</p>
+                                                )}
+                                                {item.content && (
+                                                    <div className="text-sm text-neutral-700 dark:text-neutral-300 leading-relaxed">
+                                                        <ReactMarkdown
+                                                            rehypePlugins={[rehypeRaw]}
+                                                            skipHtml={false}
+                                                            components={{
+                                                                p: ({ children }) => <p className="mb-3 last:mb-0">{children}</p>,
+                                                                ul: ({ children }) => <ul className="list-disc list-outside mb-3 space-y-1 ml-5">{children}</ul>,
+                                                                ol: ({ children }) => <ol className="list-decimal list-outside mb-3 space-y-1 ml-5">{children}</ol>,
+                                                                li: ({ children }) => <li className="mb-1">{children}</li>,
+                                                                strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
+                                                                em: ({ children }) => <em className="italic text-neutral-600 dark:text-neutral-400">{children}</em>,
+                                                            }}
+                                                        >
+                                                            {item.content}
+                                                        </ReactMarkdown>
+                                                    </div>
+                                                )}
+                                                {item.tags && (
+                                                    <div className="flex flex-wrap gap-2 mt-3">
+                                                        {item.tags.map(tag => (
+                                                            <span key={tag} className="text-xs text-neutral-500 bg-neutral-50 dark:bg-neutral-800/50 px-2 py-1 rounded border border-neutral-100 dark:border-neutral-800">
+                                                                {tag}
+                                                            </span>
+                                                        ))}
+                                                    </div>
+                                                )}
+                                                {item.link && (
+                                                    <div className="mt-3">
+                                                        <a
+                                                            href={item.link}
+                                                            className="text-sm text-accent hover:text-accent-dark underline"
+                                                            target="_blank"
+                                                            rel="noopener noreferrer"
+                                                        >
+                                                            Learn more
+                                                        </a>
+                                                    </div>
+                                                )}
+                                            </div>
                                         </div>
                                     </div>
                                 ))}
