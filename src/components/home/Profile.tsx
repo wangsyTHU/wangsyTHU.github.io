@@ -99,7 +99,7 @@ export default function Profile({ author, social, features, researchInterests }:
         const script = document.createElement('script');
         script.type = 'text/javascript';
         script.id = 'mapmyvisitors';
-        script.src = 'https://mapmyvisitors.com/map.js?cl=a9adb0&w=300&t=n&d=jroO3Mb73pusuKX_2EO5YK2jNH7hacBB_iKyzrBqz6w&co=ffffff&ct=000000&cmo=ff7f0e&cmn=2ca02c';
+        script.src = 'https://mapmyvisitors.com/map.js?cl=a9adb0&w=300&t=t&d=OjA-1sglU01t45aN3NekkhYTxzMSOJgueUCN-Ao4KzM&co=ffffff&cmo=ff7f0e&cmn=75db75&ct=000000';
         container.appendChild(script);
 
         return () => {
