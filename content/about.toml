@@ -4,13 +4,15 @@ title = "About"
 [profile]
 research_interests = [
   "AI and optimization",
+  "AI and multimodal data",
   "Flexibility aggregation",
-  "Integrated energy system",
-  "Virtual power plant",
+  "System states monitoring",
+  "Optimal operation & control",
+  "Energy policy analysis",
   "Data center",
   "Power-to-X industry",
-  "AI and multimodal data",
-  "Energy policy analysis"
+  "Virtual power plant",
+  "Integrated energy system"
 ]
 
 [[sections]]
