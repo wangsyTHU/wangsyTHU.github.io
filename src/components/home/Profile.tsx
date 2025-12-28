@@ -99,11 +99,56 @@ export default function Profile({ author, social, features, researchInterests }:
         const script = document.createElement('script');
         script.type = 'text/javascript';
         script.id = 'mapmyvisitors';
-        script.src = 'https://mapmyvisitors.com/map.js?cl=a9adb0&w=300&t=n&d=OjA-1sglU01t45aN3NekkhYTxzMSOJgueUCN-Ao4KzM&co=ffffff&cmo=ff7f0e&cmn=ff5353&ct=000000';
+        script.src = 'https://mapmyvisitors.com/map.js?cl=a9adb0&w=260&t=n&d=OjA-1sglU01t45aN3NekkhYTxzMSOJgueUCN-Ao4KzM&co=ffffff&cmo=ff7f0e&cmn=ff5353&ct=000000';
         container.appendChild(script);
 
         return () => {
             container.innerHTML = '';
+        };
+    }, []);
+
+    useEffect(() => {
+        const container = mapContainerRef.current;
+        if (!container || typeof ResizeObserver === 'undefined') return;
+
+        const syncSizeToMap = (target?: HTMLElement | null) => {
+            const mapElement = (target ?? container.firstElementChild) as HTMLElement | null;
+            if (!mapElement) return;
+            const { width, height } = mapElement.getBoundingClientRect();
+            if (width && height) {
+                container.style.width = `${width}px`;
+                container.style.height = `${height}px`;
+            }
+        };
+
+        const resizeObserver = new ResizeObserver((entries) => {
+            entries.forEach((entry) => syncSizeToMap(entry.target as HTMLElement));
+        });
+
+        const mutationObserver = new MutationObserver((mutations) => {
+            mutations.forEach((mutation) => {
+                mutation.addedNodes.forEach((node) => {
+                    if (node instanceof HTMLElement) {
+                        resizeObserver.observe(node);
+                        syncSizeToMap(node);
+                    }
+                });
+            });
+        });
+
+        mutationObserver.observe(container, { childList: true });
+
+        const initialChild = container.firstElementChild as HTMLElement | null;
+        if (initialChild) {
+            resizeObserver.observe(initialChild);
+            syncSizeToMap(initialChild);
+        }
+
+        return () => {
+            mutationObserver.disconnect();
+            resizeObserver.disconnect();
+            container.style.width = '';
+            container.style.height = '';
         };
     }, []);
 
