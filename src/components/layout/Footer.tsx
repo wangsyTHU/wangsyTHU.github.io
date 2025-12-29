@@ -14,7 +14,7 @@ export default function Footer({ lastUpdated }: FooterProps) {
           </p>
           <p className="text-xs text-neutral-500 flex items-center">
             <a href="https://github.com/xyjoey/PRISM" target="_blank" rel="noopener noreferrer">
-              Built with PRISM
+              Modified based on PRISM
             </a>
             <span className="ml-2"></span>
           </p>
