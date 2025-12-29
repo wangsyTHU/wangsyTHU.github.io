@@ -2,7 +2,7 @@
 
 - **Schmidt AI in Science Postdoctoral Associate, Cornell University**, *Sep 2025–Present*  
   Organize the *Cornell University AI for Sustainability Distinguished Lecture*  
-  Organize the *Cornell University AI for Sustainability Rising Star Colloquium*  
+  Organize the *Cornell University AI for Sustainability Frontier Research Colloquium*  
 
 - **Chair of IEEE PES Tsinghua Student Branch Chapter, IEEE Power & Energy Society**, *Jun 2020–Dec 2021*  
   Organize the *Modern Power System Academic Seminar* (twice)  
