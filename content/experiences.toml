@@ -4,7 +4,7 @@ title = "Experiences"
 [[sections]]
 id = "academic_appointments_heading"
 type = "text"
-content = "<h3 class=\"text-xl font-bold\">Academic Appointments</h3>"
+content = "<h3 class=\"text-xl font-serif font-bold text-primary\">Academic Appointments</h3>"
 
 [[sections]]
 id = "academic_appointments"
@@ -27,7 +27,7 @@ type = "card"
 [[sections]]
 id = "education_heading"
 type = "text"
-content = "<h3 class=\"text-xl font-bold\">Education</h3>"
+content = "<h3 class=\"text-xl font-serif font-bold text-primary\">Education</h3>"
 
 [[sections]]
 id = "education"

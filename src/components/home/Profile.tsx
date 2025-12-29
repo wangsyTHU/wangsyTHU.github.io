@@ -114,10 +114,13 @@ export default function Profile({ author, social, features, researchInterests }:
         const syncSizeToMap = (target?: HTMLElement | null) => {
             const mapElement = (target ?? container.firstElementChild) as HTMLElement | null;
             if (!mapElement) return;
-            const { width, height } = mapElement.getBoundingClientRect();
-            if (width && height) {
+            const { width } = mapElement.getBoundingClientRect();
+            if (width) {
+                const desiredHeight = Math.round(width / 2.1); // keep container at 2:1 ratio (width:height)
                 container.style.width = `${width}px`;
-                container.style.height = `${height}px`;
+                container.style.height = `${desiredHeight}px`;
+                // Keep the embedded map element aligned to the same height to avoid overflow
+                mapElement.style.height = `${desiredHeight}px`;
             }
         };
 
@@ -223,7 +226,7 @@ export default function Profile({ author, social, features, researchInterests }:
                 <p className="text-lg text-accent font-medium mb-1">
                     {author.title}
                 </p>
-                <p className="text-neutral-600 mb-2">
+                <p className="text-lg font-semibold text-neutral-600 mb-2">
                     {author.institution}
                 </p>
             </div>
@@ -416,7 +419,7 @@ export default function Profile({ author, social, features, researchInterests }:
             {researchInterests && researchInterests.length > 0 && (
                 <div className="bg-neutral-100 dark:bg-neutral-800 rounded-lg p-4 mb-4 hover:shadow-lg transition-all duration-200 hover:scale-[1.02] w-64 max-w-full mx-auto">
                     <h3 className="font-semibold text-primary mb-3">Key Words</h3>
-                    <div className="space-y-2 text-sm text-neutral-700 dark:text-neutral-500">
+                    <div className="space-y-2 text-sm text-neutral-700 dark:text-white">
                         {researchInterests.map((interest, index) => (
                             <div key={index}>{interest}</div>
                         ))}
@@ -424,7 +427,7 @@ export default function Profile({ author, social, features, researchInterests }:
                 </div>
             )}
 
-            <div className="mb-6">
+            <div className="mb-6 hidden sm:block">
                 <div
                     ref={mapContainerRef}
                     className="w-fit h-fit rounded-xl overflow-hidden border border-neutral-200 dark:border-neutral-700 bg-white dark:bg-neutral-900 shadow-sm mx-auto"

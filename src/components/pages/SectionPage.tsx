@@ -133,7 +133,7 @@ export default function SectionPage({ title, description, sections, embedded = f
                                                     <p className="text-sm text-accent font-medium mb-2">{item.subtitle}</p>
                                                 )}
                                                 {item.content && (
-                                                    <div className="text-sm text-neutral-700 dark:text-neutral-300 leading-relaxed">
+                                                    <div className="text-sm text-neutral-700 dark:text-white leading-relaxed">
                                                         <ReactMarkdown
                                                             rehypePlugins={[rehypeRaw]}
                                                             skipHtml={false}
@@ -142,8 +142,8 @@ export default function SectionPage({ title, description, sections, embedded = f
                                                                 ul: ({ children }) => <ul className="list-disc list-outside mb-3 space-y-1 ml-5">{children}</ul>,
                                                                 ol: ({ children }) => <ol className="list-decimal list-outside mb-3 space-y-1 ml-5">{children}</ol>,
                                                                 li: ({ children }) => <li className="mb-1">{children}</li>,
-                                                                strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
-                                                                em: ({ children }) => <em className="italic text-neutral-600 dark:text-neutral-400">{children}</em>,
+                                                                strong: ({ children }) => <strong className="font-semibold dark:text-white">{children}</strong>,
+                                                                em: ({ children }) => <em className="italic text-neutral-600 dark:text-white">{children}</em>,
                                                             }}
                                                         >
                                                             {item.content}

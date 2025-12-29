@@ -38,6 +38,6 @@
 
 - **Collaborative Operation Technology of Distributed Source‑Load Interaction in the Transmission‑Distribution‑Microgrid System** — *China State Grid* (*2021–2024*)  
   - Aggregated flexible energy resources for hierarchical dispatch  
-  - Combined model‑ and data‑driven risk dispatch across T‑D‑microgrid  
-  - Optimized Volt/VAR control in T‑D‑microgrid systems
+  - Combined model‑ and data‑driven risk dispatch across Transmission‑Distribution‑Microgrid  
+  - Optimized Volt/VAR control in Transmission‑Distribution‑Microgrid systems
 

@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./fonts.css";
 
 /* Explicitly set dark mode to use class strategy */
 @variant dark (&:where(.dark, .dark *));
@@ -209,6 +210,10 @@ body {
 
 .md-orange {
   color: #c2410c;
+}
+
+.dark .md-orange {
+  color: var(--foreground);
 }
 
 /* Custom scrollbar */

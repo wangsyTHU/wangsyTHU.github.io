@@ -26,13 +26,13 @@ export default function News({ items, title = 'News' }: NewsProps) {
             <div className="space-y-3">
                 {safeItems.map((item, index) => (
                     <div key={index} className="flex items-start space-x-3">
-                        <span className="text-sm font-medium text-neutral-500 mt-1 w-20 flex-shrink-0">{item.date}</span>
-                        <div className="text-base text-neutral-800 dark:text-neutral-200">
+                        <span className="text-sm font-medium text-neutral-500 dark:text-white mt-1 w-20 flex-shrink-0">{item.date}</span>
+                        <div className="text-base text-neutral-800 dark:text-white">
                             <ReactMarkdown
                                 components={{
                                     p: ({ children }) => <p className="m-0">{children}</p>,
-                                    strong: ({ children }) => <strong className="font-semibold text-primary">{children}</strong>,
-                                    em: ({ children }) => <em className="italic text-neutral-600">{children}</em>,
+                                    strong: ({ children }) => <strong className="font-semibold text-primary dark:text-white">{children}</strong>,
+                                    em: ({ children }) => <em className="italic text-neutral-600 dark:text-white">{children}</em>,
                                 }}
                             >
                                 {item.content || ''}
