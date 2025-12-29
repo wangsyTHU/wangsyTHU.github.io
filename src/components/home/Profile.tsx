@@ -206,12 +206,12 @@ export default function Profile({ author, social, features, researchInterests }:
             className="sticky top-8"
         >
             {/* Profile Image */}
-            <div className="w-64 h-64 mx-auto mb-6 rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-105">
+            <div className="w-[14.4rem] h-[14.4rem] mx-auto mb-6 rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-105">
                 <Image
                     src={author.avatar}
                     alt={author.name}
-                    width={256}
-                    height={256}
+                    width={230}
+                    height={230}
                     className="w-full h-full object-cover object-[32%_center]"
                     priority
                 />
@@ -223,7 +223,7 @@ export default function Profile({ author, social, features, researchInterests }:
                     <div>{englishName}</div>
                     <div className="mt-1 text-2xl">{chineseName}</div>
                 </div>
-                <p className="text-lg text-accent font-medium mb-1">
+                <p className="text-lg text-accent font-medium mb-1 whitespace-pre-line">
                     {author.title}
                 </p>
                 <p className="text-lg font-semibold text-neutral-600 mb-2">

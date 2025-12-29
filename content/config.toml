@@ -6,7 +6,8 @@ last_updated = "December, 2025"
 
 [author]
 name = "Siyuan Wang (王思远)"
-title = "Schmidt AI in Science Postdoctoral Associate"
+title = """Schmidt AI in Science
+Postdoctoral Associate"""
 institution = "Cornell University"
 avatar = "/bio.jpg"
 
