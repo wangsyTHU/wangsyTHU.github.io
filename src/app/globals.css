@@ -209,11 +209,11 @@ body {
 }
 
 .md-orange {
-  color: #c2410c;
+  color: var(--accent);
 }
 
 .dark .md-orange {
-  color: var(--foreground);
+  color: var(--accent);
 }
 
 /* Custom scrollbar */

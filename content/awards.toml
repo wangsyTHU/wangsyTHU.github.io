@@ -19,15 +19,15 @@ content = "**Tsinghua Cercis Scholar** (<span class=\"md-orange\"><strong>10 rec
 
 [[items]]
 date = "2024"
-content = "**Tsinghua Outstanding Ph.D. Dissertation** (**Top 5%**)<br/><em>Tsinghua University</em>"
+content = "**Tsinghua Outstanding Ph.D. Dissertation** <br/><em>Tsinghua University</em>"
 
 [[items]]
 date = "2024"
-content = "**Beijing Outstanding Ph.D. Graduate** (**Top 3%**)<br/><em>Beijing Municipal Education Commission</em>"
+content = "**Beijing Outstanding Ph.D. Graduate** <br/><em>Beijing Municipal Education Commission</em>"
 
 [[items]]
 date = "2024"
-content = "**Tsinghua Outstanding Ph.D. Graduate** (**Top 3%**)<br/><em>Tsinghua University</em>"
+content = "**Tsinghua Outstanding Ph.D. Graduate** <br/><em>Tsinghua University</em>"
 
 [[items]]
 date = "2023"
@@ -43,7 +43,7 @@ content = "**Electronic Circuit Design Elite Challenge** (<span class=\"md-orang
 
 [[items]]
 date = "2022"
-content = "**International Exhibition of Inventions Geneva** (<span class=\"md-orange\"><strong>Golden Medal</strong></span>)<br/><em>World Intellectual Property Organization</em>"
+content = "<span class=\"md-orange\"><strong>Golden Medal</strong></span> **in International Exhibition of Inventions Geneva** <br/><em>World Intellectual Property Organization</em>"
 
 [[items]]
 date = "2022"
@@ -75,7 +75,7 @@ content = "**Tsinghua Outstanding Undergraduate Graduate**<br/><em>Tsinghua Univ
 
 [[items]]
 date = "2018"
-content = "**Tsinghua First-Class Undergraduate Comprehensive Excellence Scholarship** (<span class=\"md-orange\"><strong>Top 1%</strong></span>)<br/><em>Tsinghua University</em>"
+content = "**Tsinghua First-Class Undergraduate Comprehensive Excellence Scholarship** <br/><em>Tsinghua University</em>"
 
 [[items]]
 date = "2017"
