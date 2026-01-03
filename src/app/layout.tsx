@@ -7,16 +7,31 @@ import { getConfig } from "@/lib/config";
 
 export async function generateMetadata(): Promise<Metadata> {
   const config = getConfig();
+  const authorNames = [config.author.name_en, config.author.name_cn, config.author.name]
+    .filter(Boolean) as string[];
+  const primaryAuthorName = authorNames[0] || 'Author';
+
+  const keywords = [
+    ...authorNames,
+    "PhD",
+    "Research",
+    config.author.institution,
+  ].filter(Boolean) as string[];
+
+  const siteName = primaryAuthorName
+    ? `${primaryAuthorName}'s Academic Website`
+    : "Academic Website";
+
   return {
     title: {
       default: config.site.title,
       template: `%s | ${config.site.title}`
     },
     description: config.site.description,
-    keywords: [config.author.name, "PhD", "Research", config.author.institution],
-    authors: [{ name: config.author.name }],
-    creator: config.author.name,
-    publisher: config.author.name,
+    keywords,
+    authors: [{ name: primaryAuthorName }],
+    creator: primaryAuthorName,
+    publisher: primaryAuthorName,
     icons: {
       icon: config.site.favicon,
     },
@@ -25,7 +40,7 @@ export async function generateMetadata(): Promise<Metadata> {
       locale: "en_US",
       title: config.site.title,
       description: config.site.description,
-      siteName: `${config.author.name}'s Academic Website`,
+      siteName,
     },
   };
 }

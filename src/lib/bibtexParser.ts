@@ -36,7 +36,7 @@ const monthMapping: Record<string, number> = {
 
 export function parseBibTeX(bibtexContent: string): Publication[] {
   const config = getConfig();
-  const authorName = config.author.name;
+  const authorName = config.author.name_en || config.author.name_cn || config.author.name;
   const entries = bibtexParse.toJSON(bibtexContent);
 
   return entries.map((entry: { entryType: string; citationKey: string; entryTags: Record<string, string> }, index: number) => {

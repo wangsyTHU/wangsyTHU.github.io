@@ -5,7 +5,8 @@ favicon = "/GlowingStar.svg"
 last_updated = "December, 2025"
 
 [author]
-name = "Siyuan Wang (王思远)"
+name_en = "Siyuan Wang"
+name_cn = "王思远"
 title = """Schmidt AI in Science
 Postdoctoral Associate"""
 institution = "Cornell University"
@@ -19,7 +20,7 @@ location = "Ithaca, USA"
 location_url = "https://maps.app.goo.gl/A9ZRHWBmUtJcSehx6"
 location_details = [
   "113 Ho Plz",
-  "Ithaca, NY 14853"
+  "Ithaca, NY 14853, USA"
 ]
 google_scholar = "https://scholar.google.com/citations?user=Lp2o-uwAAAAJ&hl=en"
 orcid = "http://orcid.org/0000-0001-9201-2452"

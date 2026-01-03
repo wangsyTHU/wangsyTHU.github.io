@@ -10,7 +10,9 @@ export interface SiteConfig {
         last_updated?: string;
     };
     author: {
-        name: string;
+        name_en?: string;
+        name_cn?: string;
+        name?: string;
         title: string;
         institution: string;
         avatar: string;

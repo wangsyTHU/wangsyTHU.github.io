@@ -51,13 +51,9 @@ interface ProfileProps {
 
 export default function Profile({ author, social, features, researchInterests }: ProfileProps) {
 
-    const englishName = author.name?.includes('(')
-        ? author.name.split('(')[0].trim()
-        : author.name;
-    const chineseName = (() => {
-        const match = author.name.match(/\(([^)]+)\)/);
-        return match?.[1]?.trim() || '王思远';
-    })();
+    const englishName = author.name_en?.trim();
+    const chineseName = author.name_cn?.trim();
+    const displayName = englishName || chineseName || 'Profile';
 
     const [hasLiked, setHasLiked] = useState(false);
     const [showThanks, setShowThanks] = useState(false);
@@ -209,7 +205,7 @@ export default function Profile({ author, social, features, researchInterests }:
             <div className="w-[14.4rem] h-[14.4rem] mx-auto mb-6 rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-105">
                 <Image
                     src={author.avatar}
-                    alt={author.name}
+                    alt={displayName}
                     width={230}
                     height={230}
                     className="w-full h-full object-cover object-[32%_center]"
@@ -220,8 +216,10 @@ export default function Profile({ author, social, features, researchInterests }:
             {/* Name and Title */}
             <div className="text-center mb-6">
                 <div className="text-3xl font-serif font-bold text-primary mb-2 leading-snug">
-                    <div>{englishName}</div>
-                    <div className="mt-1 text-2xl">{chineseName}</div>
+                    {englishName && <div>{englishName}</div>}
+                    {chineseName && (
+                        <div className={`${englishName ? 'mt-1 ' : ''}text-2xl`}>{chineseName}</div>
+                    )}
                 </div>
                 <p className="text-lg text-accent font-medium mb-1 whitespace-pre-line">
                     {author.title}
